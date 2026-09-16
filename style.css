@@ -1,0 +1,438 @@
+/* ====================================
+   GLOBAL
+==================================== */
+
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: #F4F6F8;
+    margin: 0;
+    padding: 20px;
+    color: #222;
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+}
+
+/* ====================================
+   HEADER
+==================================== */
+
+h1 {
+    color: #3DCD58;
+    border-bottom: 4px solid #3DCD58;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: #2FA94A;
+}
+
+/* ====================================
+   NAVIGATION
+==================================== */
+
+.navBar {
+    margin-bottom: 25px;
+}
+
+.navBar button {
+    background: white;
+    color: #3DCD58;
+    border: 2px solid #3DCD58;
+}
+
+.navBar button:hover {
+    background: #3DCD58;
+    color: white;
+}
+
+/* ====================================
+   BUTTONS
+==================================== */
+
+button {
+
+    background: #3DCD58;
+    color: white;
+
+    border: none;
+    border-radius: 6px;
+
+    padding: 10px 18px;
+
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition: 0.2s;
+
+    margin-right: 10px;
+}
+
+button:hover {
+
+    background: #2FA94A;
+
+}
+
+/* ====================================
+   TOOLBAR
+==================================== */
+
+.toolbar {
+    margin-bottom: 25px;
+}
+
+/* ====================================
+   LAYOUT
+==================================== */
+
+.topSection {
+
+    display: flex;
+    gap: 20px;
+    margin-bottom: 25px;
+    align-items: stretch;
+
+}
+
+/* ====================================
+   CARDS
+==================================== */
+
+.formArea,
+.descriptionArea {
+
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    box-shadow:
+        0 2px 8px rgba(0, 0, 0, 0.08);
+
+    height: 420px;
+
+}
+
+.formArea {
+
+    width: 350px;
+
+}
+
+.descriptionArea {
+
+    flex: 1;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+/* ====================================
+   DESCRIPTION SCROLL AREA
+==================================== */
+
+#descriptions {
+
+    flex: 1;
+
+    overflow-y: auto;
+
+    padding-right: 10px;
+
+}
+
+/* Scrollbar */
+
+#descriptions::-webkit-scrollbar {
+    width: 8px;
+}
+
+#descriptions::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+#descriptions::-webkit-scrollbar-thumb {
+    background: #3DCD58;
+    border-radius: 4px;
+}
+
+#descriptions::-webkit-scrollbar-thumb:hover {
+    background: #2FA94A;
+}
+
+/* ====================================
+   INPUTS
+==================================== */
+
+input,
+select {
+
+    width: 100%;
+
+    padding: 10px;
+
+    margin-bottom: 12px;
+
+    border: 1px solid #D0D7DE;
+
+    border-radius: 6px;
+
+    box-sizing: border-box;
+
+}
+
+input:focus,
+select:focus {
+
+    outline: none;
+
+    border-color: #3DCD58;
+
+    box-shadow:
+        0 0 3px rgba(61, 205, 88, 0.4);
+
+}
+
+/* ====================================
+   TABLE
+==================================== */
+
+table {
+
+    width: 100%;
+
+    border-collapse: collapse;
+
+    background: white;
+
+    box-shadow:
+        0 2px 8px rgba(0, 0, 0, 0.08);
+
+}
+
+th {
+
+    background: #3DCD58;
+
+    color: white;
+
+    padding: 12px;
+
+}
+
+td {
+
+    border: 1px solid #E5E7EB;
+
+    padding: 10px;
+
+}
+
+tr:nth-child(even) {
+
+    background: #F8FFF9;
+
+}
+
+tr:hover {
+
+    background: #EAFBF0;
+
+}
+
+/* ====================================
+   SCORE BOX
+==================================== */
+
+.scoreInput {
+
+    width: 80px;
+
+    text-align: center;
+
+}
+
+/* ====================================
+   DESCRIPTION CARDS
+==================================== */
+
+.descriptionCard {
+
+    border-bottom: 1px solid #EEE;
+
+    margin-bottom: 15px;
+
+    padding-bottom: 10px;
+
+}
+
+.descriptionCard h3 {
+
+    color: #3DCD58;
+
+    margin-bottom: 5px;
+
+}
+
+.descriptionCard p {
+
+    line-height: 1.5;
+
+    margin: 0;
+
+}
+
+/* ====================================
+   ADMIN TAB
+==================================== */
+
+#adminTab {
+
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    box-shadow:
+        0 2px 8px rgba(0, 0, 0, 0.08);
+
+}
+
+#adminTab input {
+
+    display: block;
+
+    width: 350px;
+
+    margin-bottom: 10px;
+
+}
+
+#adminTab hr {
+
+    margin: 30px 0;
+
+}
+
+/* ====================================
+   REPORT TAB
+==================================== */
+
+#reportTab {
+
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    box-shadow:
+        0 2px 8px rgba(0, 0, 0, 0.08);
+
+}
+
+/* ====================================
+   MOBILE
+==================================== */
+
+@media (max-width: 900px) {
+
+    .topSection {
+
+        flex-direction: column;
+
+    }
+
+    .formArea {
+
+        width: 100%;
+        height: auto;
+
+    }
+
+    .descriptionArea {
+
+        height: 420px;
+
+    }
+
+}
+
+.reportCards {
+
+    display: flex;
+
+    gap: 20px;
+
+    margin-bottom: 30px;
+
+}
+
+.card {
+
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    min-width: 200px;
+
+    box-shadow:
+        0 2px 8px rgba(0,0,0,0.08);
+
+}
+
+.card h3 {
+
+    margin-top: 0;
+
+}
+
+.reportFilters {
+
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+.reportFilters select {
+
+    width: 200px;
+
+}
+
+.reportCards {
+
+    display: flex;
+    gap: 20px;
+    margin-bottom: 30px;
+
+}
+
+.card {
+
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+
+    box-shadow:
+        0 2px 8px rgba(0,0,0,0.08);
+
+    min-width: 200px;
+
+}
+
+.card h3 {
+    margin-top: 0;
+}

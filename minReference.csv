@@ -1,0 +1,1864 @@
+jobCode,team,skill,subSkill,minValue
+DPPP1,SPE West,Analytical Thinking,Problem Solving,2
+DPPP1,SPE West,Budgeting,Accounting,1
+DPPP1,SPE West,Business Intelligence Tools,Subskill 3,1
+DPPP1,SPE West,Communication,Collaboration across BU/Function,2
+DPPP1,SPE West,Communication,Responsability - customer centric,2
+DPPP1,SPE West,Consulting,Subskill 4,1
+DPPP1,SPE West,Contract Management,Contract Management,1
+DPPP1,SPE West,Customer Orientation,Ownership Accountability,2
+DPPP1,SPE West,Decision Making,Subskill 6,1
+DPPP1,SPE West,Digital Literacy,On boarding Training Path,2
+DPPP1,SPE West,Digital Literacy,On boarding plan - Regional path,2
+DPPP1,SPE West,Digital Literacy,MLL/Coursera,2
+DPPP1,SPE West,Digital Literacy,Teams/Outlook/M365,2
+DPPP1,SPE West,Digital Literacy,Spice+,2
+DPPP1,SPE West,Digital Literacy,Folder,2
+DPPP1,SPE West,Digital Literacy,SEA,2
+DPPP1,SPE West,Digital Literacy,bFO,2
+DPPP1,SPE West,Digital Literacy,CPS,2
+DPPP1,SPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP1,SPE West,Digital Literacy,Who's who,2
+DPPP1,SPE West,Digital Literacy,Escalation process,2
+DPPP1,SPE West,Digital Literacy,PHR,2
+DPPP1,SPE West,Digital Literacy,Career Hub,2
+DPPP1,SPE West,Digital Literacy,Achievers,2
+DPPP1,SPE West,Financial Management,Financial Acumen,1
+DPPP1,SPE West,Operational Efficiency,AI learning & mechanics,2
+DPPP1,SPE West,Prioritization,Subskill 9,2
+DPPP1,SPE West,Project Management,Change Order Management,2
+DPPP1,SPE West,Project Management,Technical Support,2
+DPPP1,SPE West,Project Management,NB4 Date Management,2
+DPPP1,SPE West,Project Management,APM Certification,2
+DPPP1,SPE West,Project Management,PMP Certification,2
+DPPP1,SPE West,Reporting,Reporting,1
+DPPP1,SPE West,Risk Management,Risk Management & Method,1
+DPPP1,SPE West,Safety Regulations,Subskill 11,2
+DPPP2,SPE West,Analytical Thinking,Problem Solving,2
+DPPP2,SPE West,Budgeting,Accounting,1
+DPPP2,SPE West,Communication,Collaboration across BU/Function,2
+DPPP2,SPE West,Communication,Responsability - customer centric,2
+DPPP2,SPE West,Consulting,Subskill 4,1
+DPPP2,SPE West,Contract Management,Contract Management,1
+DPPP2,SPE West,Customer Orientation,Ownership Accountability,2
+DPPP2,SPE West,Decision Making,Subskill 6,2
+DPPP2,SPE West,Digital Literacy,On boarding Training Path,2
+DPPP2,SPE West,Digital Literacy,On boarding plan - Regional path,2
+DPPP2,SPE West,Digital Literacy,MLL/Coursera,2
+DPPP2,SPE West,Digital Literacy,Teams/Outlook/M365,2
+DPPP2,SPE West,Digital Literacy,Spice+,2
+DPPP2,SPE West,Digital Literacy,Folder,2
+DPPP2,SPE West,Digital Literacy,SEA,2
+DPPP2,SPE West,Digital Literacy,bFO,2
+DPPP2,SPE West,Digital Literacy,CPS,2
+DPPP2,SPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP2,SPE West,Digital Literacy,Who's who,2
+DPPP2,SPE West,Digital Literacy,Escalation process,2
+DPPP2,SPE West,Digital Literacy,PHR,2
+DPPP2,SPE West,Digital Literacy,Career Hub,2
+DPPP2,SPE West,Digital Literacy,Achievers,2
+DPPP2,SPE West,Financial Management,Financial Acumen,1
+DPPP2,SPE West,Operational Efficiency,AI learning & mechanics,2
+DPPP2,SPE West,Prioritization,Subskill 9,3
+DPPP2,SPE West,Project Management,Change Order Management,2
+DPPP2,SPE West,Project Management,Technical Support,2
+DPPP2,SPE West,Project Management,NB4 Date Management,2
+DPPP2,SPE West,Project Management,APM Certification,2
+DPPP2,SPE West,Project Management,PMP Certification,2
+DPPP2,SPE West,Reporting,Reporting,1
+DPPP2,SPE West,Risk Management,Risk Management & Method,1
+DPPP2,SPE West,Safety Regulations,Subskill 11,2
+DPPP3,SPE West,Analytical Thinking,Problem Solving,3
+DPPP3,SPE West,Budgeting,Accounting,2
+DPPP3,SPE West,Communication,Collaboration across BU/Function,3
+DPPP3,SPE West,Communication,Responsability - customer centric,3
+DPPP3,SPE West,Consulting,Subskill 4,2
+DPPP3,SPE West,Contract Management,Contract Management,2
+DPPP3,SPE West,Customer Orientation,Ownership Accountability,3
+DPPP3,SPE West,Decision Making,Subskill 6,3
+DPPP3,SPE West,Digital Literacy,On boarding Training Path,2
+DPPP3,SPE West,Digital Literacy,On boarding plan - Regional path,2
+DPPP3,SPE West,Digital Literacy,MLL/Coursera,2
+DPPP3,SPE West,Digital Literacy,Teams/Outlook/M365,2
+DPPP3,SPE West,Digital Literacy,Spice+,2
+DPPP3,SPE West,Digital Literacy,Folder,2
+DPPP3,SPE West,Digital Literacy,SEA,2
+DPPP3,SPE West,Digital Literacy,bFO,2
+DPPP3,SPE West,Digital Literacy,CPS,2
+DPPP3,SPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP3,SPE West,Digital Literacy,Who's who,2
+DPPP3,SPE West,Digital Literacy,Escalation process,2
+DPPP3,SPE West,Digital Literacy,PHR,2
+DPPP3,SPE West,Digital Literacy,Career Hub,2
+DPPP3,SPE West,Digital Literacy,Achievers,2
+DPPP3,SPE West,Financial Management,Financial Acumen,2
+DPPP3,SPE West,Operational Efficiency,AI learning & mechanics,3
+DPPP3,SPE West,Prioritization,Subskill 9,3
+DPPP3,SPE West,Project Management,Change Order Management,3
+DPPP3,SPE West,Project Management,Technical Support,3
+DPPP3,SPE West,Project Management,NB4 Date Management,3
+DPPP3,SPE West,Project Management,APM Certification,3
+DPPP3,SPE West,Project Management,PMP Certification,3
+DPPP3,SPE West,Reporting,Reporting,2
+DPPP3,SPE West,Risk Management,Risk Management & Method,3
+DPPP3,SPE West,Safety Regulations,Subskill 11,2
+DPPP4,SPE West,Budgeting,Accounting,3
+DPPP4,SPE West,Communication,Collaboration across BU/Function,3
+DPPP4,SPE West,Communication,Responsability - customer centric,3
+DPPP4,SPE West,Consulting,Subskill 4,3
+DPPP4,SPE West,Contract Management,Contract Management,2
+DPPP4,SPE West,Critical Thinking,Emotional Intelligence,3
+DPPP4,SPE West,Critical Thinking,Critical Thinking,3
+DPPP4,SPE West,Customer Orientation,Ownership Accountability,3
+DPPP4,SPE West,Decision Making,Subskill 6,3
+DPPP4,SPE West,Digital Literacy,On boarding Training Path,3
+DPPP4,SPE West,Digital Literacy,On boarding plan - Regional path,3
+DPPP4,SPE West,Digital Literacy,MLL/Coursera,3
+DPPP4,SPE West,Digital Literacy,Teams/Outlook/M365,3
+DPPP4,SPE West,Digital Literacy,Spice+,3
+DPPP4,SPE West,Digital Literacy,Folder,3
+DPPP4,SPE West,Digital Literacy,SEA,3
+DPPP4,SPE West,Digital Literacy,bFO,3
+DPPP4,SPE West,Digital Literacy,CPS,3
+DPPP4,SPE West,Digital Literacy,Cust Sat tool - SCR/PET,3
+DPPP4,SPE West,Digital Literacy,Who's who,3
+DPPP4,SPE West,Digital Literacy,Escalation process,3
+DPPP4,SPE West,Digital Literacy,PHR,3
+DPPP4,SPE West,Digital Literacy,Career Hub,3
+DPPP4,SPE West,Digital Literacy,Achievers,3
+DPPP4,SPE West,Financial Management,Financial Acumen,2
+DPPP4,SPE West,Operational Efficiency,AI learning & mechanics,3
+DPPP4,SPE West,Prioritization,Subskill 9,4
+DPPP4,SPE West,Project Management,Change Order Management,3
+DPPP4,SPE West,Project Management,Technical Support,3
+DPPP4,SPE West,Project Management,NB4 Date Management,3
+DPPP4,SPE West,Project Management,APM Certification,3
+DPPP4,SPE West,Project Management,PMP Certification,3
+DPPP4,SPE West,Reporting,Reporting,2
+DPPP4,SPE West,Risk Management,Risk Management & Method,3
+DPPP4,SPE West,Safety Regulations,Subskill 11,3
+DHDP1,SPE West,Adaptability,Subskill 1,2
+DHDP1,SPE West,Administrative Knowledge,Subskill 2,3
+DHDP1,SPE West,Business Intelligence Tools,Subskill 3,1
+DHDP1,SPE West,Communication,Collaboration across BU/Function,2
+DHDP1,SPE West,Communication,Responsability - customer centric,2
+DHDP1,SPE West,Customer Orientation,Ownership Accountability,2
+DHDP1,SPE West,Database Management,Subskill 5,3
+DHDP1,SPE West,Digital Literacy,On boarding Training Path,2
+DHDP1,SPE West,Digital Literacy,On boarding plan - Regional path,2
+DHDP1,SPE West,Digital Literacy,MLL/Coursera,2
+DHDP1,SPE West,Digital Literacy,Teams/Outlook/M365,2
+DHDP1,SPE West,Digital Literacy,Spice+,2
+DHDP1,SPE West,Digital Literacy,Folder,2
+DHDP1,SPE West,Digital Literacy,SEA,2
+DHDP1,SPE West,Digital Literacy,bFO,2
+DHDP1,SPE West,Digital Literacy,CPS,2
+DHDP1,SPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP1,SPE West,Digital Literacy,Who's who,2
+DHDP1,SPE West,Digital Literacy,Escalation process,2
+DHDP1,SPE West,Digital Literacy,PHR,2
+DHDP1,SPE West,Digital Literacy,Career Hub,2
+DHDP1,SPE West,Digital Literacy,Achievers,2
+DHDP1,SPE West,Document Management System,Subskill 7,2
+DHDP1,SPE West,Documentation,Subskill 8,2
+DHDP1,SPE West,Personal Productivity,Subskill 8,2
+DHDP1,SPE West,Project Management,Change Order Management,1
+DHDP1,SPE West,Project Management,Technical Support,1
+DHDP1,SPE West,Project Management,NB4 Date Management,1
+DHDP1,SPE West,Project Management,APM Certification,1
+DHDP1,SPE West,Project Management,PMP Certification,1
+DHDP1,SPE West,Project Scheduling,Sales Forecast Accuracy,1
+DHDP1,SPE West,Quality Assurance,Subskill 10,1
+DHDP1,SPE West,Reporting,Reporting,2
+DHDP1,SPE West,Risk Management,Risk Management & Method,1
+DHDP1,SPE West,Simplification,Subskill 12,1
+DHDP2,SPE West,Adaptability,Subskill 1,3
+DHDP2,SPE West,Administrative Knowledge,Subskill 2,3
+DHDP2,SPE West,Business Intelligence Tools,Subskill 3,2
+DHDP2,SPE West,Communication,Collaboration across BU/Function,3
+DHDP2,SPE West,Communication,Responsability - customer centric,3
+DHDP2,SPE West,Customer Orientation,Ownership Accountability,3
+DHDP2,SPE West,Database Management,Subskill 5,3
+DHDP2,SPE West,Digital Literacy,On boarding Training Path,2
+DHDP2,SPE West,Digital Literacy,On boarding plan - Regional path,2
+DHDP2,SPE West,Digital Literacy,MLL/Coursera,2
+DHDP2,SPE West,Digital Literacy,Teams/Outlook/M365,2
+DHDP2,SPE West,Digital Literacy,Spice+,2
+DHDP2,SPE West,Digital Literacy,Folder,2
+DHDP2,SPE West,Digital Literacy,SEA,2
+DHDP2,SPE West,Digital Literacy,bFO,2
+DHDP2,SPE West,Digital Literacy,CPS,2
+DHDP2,SPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP2,SPE West,Digital Literacy,Who's who,2
+DHDP2,SPE West,Digital Literacy,Escalation process,2
+DHDP2,SPE West,Digital Literacy,PHR,2
+DHDP2,SPE West,Digital Literacy,Career Hub,2
+DHDP2,SPE West,Digital Literacy,Achievers,2
+DHDP2,SPE West,Document Management System,Subskill 7,3
+DHDP2,SPE West,Documentation,Subskill 8,3
+DHDP2,SPE West,Personal Productivity,Subskill 8,3
+DHDP2,SPE West,Project Management,Change Order Management,2
+DHDP2,SPE West,Project Management,Technical Support,2
+DHDP2,SPE West,Project Management,NB4 Date Management,2
+DHDP2,SPE West,Project Management,APM Certification,2
+DHDP2,SPE West,Project Management,PMP Certification,2
+DHDP2,SPE West,Project Scheduling,Sales Forecast Accuracy,2
+DHDP2,SPE West,Quality Assurance,Subskill 10,2
+DHDP2,SPE West,Reporting,Reporting,3
+DHDP2,SPE West,Risk Management,Risk Management & Method,1
+DHDP2,SPE West,Simplification,Subskill 12,2
+DHDP3,SPE West,Adaptability,Subskill 1,3
+DHDP3,SPE West,Administrative Knowledge,Subskill 2,2
+DHDP3,SPE West,Business Intelligence Tools,Subskill 3,3
+DHDP3,SPE West,Communication,Collaboration across BU/Function,4
+DHDP3,SPE West,Communication,Responsability - customer centric,4
+DHDP3,SPE West,Customer Orientation,Ownership Accountability,4
+DHDP3,SPE West,Database Management,Subskill 5,2
+DHDP3,SPE West,Digital Literacy,On boarding Training Path,2
+DHDP3,SPE West,Digital Literacy,On boarding plan - Regional path,2
+DHDP3,SPE West,Digital Literacy,MLL/Coursera,2
+DHDP3,SPE West,Digital Literacy,Teams/Outlook/M365,2
+DHDP3,SPE West,Digital Literacy,Spice+,2
+DHDP3,SPE West,Digital Literacy,Folder,2
+DHDP3,SPE West,Digital Literacy,SEA,2
+DHDP3,SPE West,Digital Literacy,bFO,2
+DHDP3,SPE West,Digital Literacy,CPS,2
+DHDP3,SPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP3,SPE West,Digital Literacy,Who's who,2
+DHDP3,SPE West,Digital Literacy,Escalation process,2
+DHDP3,SPE West,Digital Literacy,PHR,2
+DHDP3,SPE West,Digital Literacy,Career Hub,2
+DHDP3,SPE West,Digital Literacy,Achievers,2
+DHDP3,SPE West,Document Management System,Subskill 7,4
+DHDP3,SPE West,Documentation,Subskill 8,4
+DHDP3,SPE West,Personal Productivity,Subskill 8,4
+DHDP3,SPE West,Project Management,Change Order Management,3
+DHDP3,SPE West,Project Management,Technical Support,3
+DHDP3,SPE West,Project Management,NB4 Date Management,3
+DHDP3,SPE West,Project Management,APM Certification,3
+DHDP3,SPE West,Project Management,PMP Certification,3
+DHDP3,SPE West,Project Scheduling,Sales Forecast Accuracy,3
+DHDP3,SPE West,Quality Assurance,Subskill 10,3
+DHDP3,SPE West,Reporting,Reporting,4
+DHDP3,SPE West,Risk Management,Risk Management & Method,2
+DHDP3,SPE West,Simplification,Subskill 12,3
+DPPP1,SPE Central,Analytical Thinking,Problem Solving,2
+DPPP1,SPE Central,Budgeting,Accounting,1
+DPPP1,SPE Central,Business Intelligence Tools,Subskill 3,1
+DPPP1,SPE Central,Communication,Collaboration across BU/Function,2
+DPPP1,SPE Central,Communication,Responsability - customer centric,2
+DPPP1,SPE Central,Consulting,Subskill 4,1
+DPPP1,SPE Central,Contract Management,Contract Management,1
+DPPP1,SPE Central,Customer Orientation,Ownership Accountability,2
+DPPP1,SPE Central,Decision Making,Subskill 6,1
+DPPP1,SPE Central,Digital Literacy,On boarding Training Path,2
+DPPP1,SPE Central,Digital Literacy,On boarding plan - Regional path,2
+DPPP1,SPE Central,Digital Literacy,MLL/Coursera,2
+DPPP1,SPE Central,Digital Literacy,Teams/Outlook/M365,2
+DPPP1,SPE Central,Digital Literacy,Spice+,2
+DPPP1,SPE Central,Digital Literacy,Folder,2
+DPPP1,SPE Central,Digital Literacy,SEA,2
+DPPP1,SPE Central,Digital Literacy,bFO,2
+DPPP1,SPE Central,Digital Literacy,CPS,2
+DPPP1,SPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP1,SPE Central,Digital Literacy,Who's who,2
+DPPP1,SPE Central,Digital Literacy,Escalation process,2
+DPPP1,SPE Central,Digital Literacy,PHR,2
+DPPP1,SPE Central,Digital Literacy,Career Hub,2
+DPPP1,SPE Central,Digital Literacy,Achievers,2
+DPPP1,SPE Central,Financial Management,Financial Acumen,1
+DPPP1,SPE Central,Operational Efficiency,AI learning & mechanics,2
+DPPP1,SPE Central,Prioritization,Subskill 9,2
+DPPP1,SPE Central,Project Management,Change Order Management,2
+DPPP1,SPE Central,Project Management,Technical Support,2
+DPPP1,SPE Central,Project Management,NB4 Date Management,2
+DPPP1,SPE Central,Project Management,APM Certification,2
+DPPP1,SPE Central,Project Management,PMP Certification,2
+DPPP1,SPE Central,Reporting,Reporting,1
+DPPP1,SPE Central,Risk Management,Risk Management & Method,1
+DPPP1,SPE Central,Safety Regulations,Subskill 11,2
+DPPP2,SPE Central,Analytical Thinking,Problem Solving,2
+DPPP2,SPE Central,Budgeting,Accounting,1
+DPPP2,SPE Central,Communication,Collaboration across BU/Function,2
+DPPP2,SPE Central,Communication,Responsability - customer centric,2
+DPPP2,SPE Central,Consulting,Subskill 4,1
+DPPP2,SPE Central,Contract Management,Contract Management,1
+DPPP2,SPE Central,Customer Orientation,Ownership Accountability,2
+DPPP2,SPE Central,Decision Making,Subskill 6,2
+DPPP2,SPE Central,Digital Literacy,On boarding Training Path,2
+DPPP2,SPE Central,Digital Literacy,On boarding plan - Regional path,2
+DPPP2,SPE Central,Digital Literacy,MLL/Coursera,2
+DPPP2,SPE Central,Digital Literacy,Teams/Outlook/M365,2
+DPPP2,SPE Central,Digital Literacy,Spice+,2
+DPPP2,SPE Central,Digital Literacy,Folder,2
+DPPP2,SPE Central,Digital Literacy,SEA,2
+DPPP2,SPE Central,Digital Literacy,bFO,2
+DPPP2,SPE Central,Digital Literacy,CPS,2
+DPPP2,SPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP2,SPE Central,Digital Literacy,Who's who,2
+DPPP2,SPE Central,Digital Literacy,Escalation process,2
+DPPP2,SPE Central,Digital Literacy,PHR,2
+DPPP2,SPE Central,Digital Literacy,Career Hub,2
+DPPP2,SPE Central,Digital Literacy,Achievers,2
+DPPP2,SPE Central,Financial Management,Financial Acumen,1
+DPPP2,SPE Central,Operational Efficiency,AI learning & mechanics,2
+DPPP2,SPE Central,Prioritization,Subskill 9,3
+DPPP2,SPE Central,Project Management,Change Order Management,2
+DPPP2,SPE Central,Project Management,Technical Support,2
+DPPP2,SPE Central,Project Management,NB4 Date Management,2
+DPPP2,SPE Central,Project Management,APM Certification,2
+DPPP2,SPE Central,Project Management,PMP Certification,2
+DPPP2,SPE Central,Reporting,Reporting,1
+DPPP2,SPE Central,Risk Management,Risk Management & Method,1
+DPPP2,SPE Central,Safety Regulations,Subskill 11,2
+DPPP3,SPE Central,Analytical Thinking,Problem Solving,3
+DPPP3,SPE Central,Budgeting,Accounting,2
+DPPP3,SPE Central,Communication,Collaboration across BU/Function,3
+DPPP3,SPE Central,Communication,Responsability - customer centric,3
+DPPP3,SPE Central,Consulting,Subskill 4,2
+DPPP3,SPE Central,Contract Management,Contract Management,2
+DPPP3,SPE Central,Customer Orientation,Ownership Accountability,3
+DPPP3,SPE Central,Decision Making,Subskill 6,3
+DPPP3,SPE Central,Digital Literacy,On boarding Training Path,2
+DPPP3,SPE Central,Digital Literacy,On boarding plan - Regional path,2
+DPPP3,SPE Central,Digital Literacy,MLL/Coursera,2
+DPPP3,SPE Central,Digital Literacy,Teams/Outlook/M365,2
+DPPP3,SPE Central,Digital Literacy,Spice+,2
+DPPP3,SPE Central,Digital Literacy,Folder,2
+DPPP3,SPE Central,Digital Literacy,SEA,2
+DPPP3,SPE Central,Digital Literacy,bFO,2
+DPPP3,SPE Central,Digital Literacy,CPS,2
+DPPP3,SPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP3,SPE Central,Digital Literacy,Who's who,2
+DPPP3,SPE Central,Digital Literacy,Escalation process,2
+DPPP3,SPE Central,Digital Literacy,PHR,2
+DPPP3,SPE Central,Digital Literacy,Career Hub,2
+DPPP3,SPE Central,Digital Literacy,Achievers,2
+DPPP3,SPE Central,Financial Management,Financial Acumen,2
+DPPP3,SPE Central,Operational Efficiency,AI learning & mechanics,3
+DPPP3,SPE Central,Prioritization,Subskill 9,3
+DPPP3,SPE Central,Project Management,Change Order Management,3
+DPPP3,SPE Central,Project Management,Technical Support,3
+DPPP3,SPE Central,Project Management,NB4 Date Management,3
+DPPP3,SPE Central,Project Management,APM Certification,3
+DPPP3,SPE Central,Project Management,PMP Certification,3
+DPPP3,SPE Central,Reporting,Reporting,2
+DPPP3,SPE Central,Risk Management,Risk Management & Method,3
+DPPP3,SPE Central,Safety Regulations,Subskill 11,2
+DPPP4,SPE Central,Budgeting,Accounting,3
+DPPP4,SPE Central,Communication,Collaboration across BU/Function,3
+DPPP4,SPE Central,Communication,Responsability - customer centric,3
+DPPP4,SPE Central,Consulting,Subskill 4,3
+DPPP4,SPE Central,Contract Management,Contract Management,2
+DPPP4,SPE Central,Critical Thinking,Emotional Intelligence,3
+DPPP4,SPE Central,Critical Thinking,Critical Thinking,3
+DPPP4,SPE Central,Customer Orientation,Ownership Accountability,3
+DPPP4,SPE Central,Decision Making,Subskill 6,3
+DPPP4,SPE Central,Digital Literacy,On boarding Training Path,3
+DPPP4,SPE Central,Digital Literacy,On boarding plan - Regional path,3
+DPPP4,SPE Central,Digital Literacy,MLL/Coursera,3
+DPPP4,SPE Central,Digital Literacy,Teams/Outlook/M365,3
+DPPP4,SPE Central,Digital Literacy,Spice+,3
+DPPP4,SPE Central,Digital Literacy,Folder,3
+DPPP4,SPE Central,Digital Literacy,SEA,3
+DPPP4,SPE Central,Digital Literacy,bFO,3
+DPPP4,SPE Central,Digital Literacy,CPS,3
+DPPP4,SPE Central,Digital Literacy,Cust Sat tool - SCR/PET,3
+DPPP4,SPE Central,Digital Literacy,Who's who,3
+DPPP4,SPE Central,Digital Literacy,Escalation process,3
+DPPP4,SPE Central,Digital Literacy,PHR,3
+DPPP4,SPE Central,Digital Literacy,Career Hub,3
+DPPP4,SPE Central,Digital Literacy,Achievers,3
+DPPP4,SPE Central,Financial Management,Financial Acumen,2
+DPPP4,SPE Central,Operational Efficiency,AI learning & mechanics,3
+DPPP4,SPE Central,Prioritization,Subskill 9,4
+DPPP4,SPE Central,Project Management,Change Order Management,3
+DPPP4,SPE Central,Project Management,Technical Support,3
+DPPP4,SPE Central,Project Management,NB4 Date Management,3
+DPPP4,SPE Central,Project Management,APM Certification,3
+DPPP4,SPE Central,Project Management,PMP Certification,3
+DPPP4,SPE Central,Reporting,Reporting,2
+DPPP4,SPE Central,Risk Management,Risk Management & Method,3
+DPPP4,SPE Central,Safety Regulations,Subskill 11,3
+DHDP1,SPE Central,Adaptability,Subskill 1,2
+DHDP1,SPE Central,Administrative Knowledge,Subskill 2,3
+DHDP1,SPE Central,Business Intelligence Tools,Subskill 3,1
+DHDP1,SPE Central,Communication,Collaboration across BU/Function,2
+DHDP1,SPE Central,Communication,Responsability - customer centric,2
+DHDP1,SPE Central,Customer Orientation,Ownership Accountability,2
+DHDP1,SPE Central,Database Management,Subskill 5,3
+DHDP1,SPE Central,Digital Literacy,On boarding Training Path,2
+DHDP1,SPE Central,Digital Literacy,On boarding plan - Regional path,2
+DHDP1,SPE Central,Digital Literacy,MLL/Coursera,2
+DHDP1,SPE Central,Digital Literacy,Teams/Outlook/M365,2
+DHDP1,SPE Central,Digital Literacy,Spice+,2
+DHDP1,SPE Central,Digital Literacy,Folder,2
+DHDP1,SPE Central,Digital Literacy,SEA,2
+DHDP1,SPE Central,Digital Literacy,bFO,2
+DHDP1,SPE Central,Digital Literacy,CPS,2
+DHDP1,SPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP1,SPE Central,Digital Literacy,Who's who,2
+DHDP1,SPE Central,Digital Literacy,Escalation process,2
+DHDP1,SPE Central,Digital Literacy,PHR,2
+DHDP1,SPE Central,Digital Literacy,Career Hub,2
+DHDP1,SPE Central,Digital Literacy,Achievers,2
+DHDP1,SPE Central,Document Management System,Subskill 7,2
+DHDP1,SPE Central,Documentation,Subskill 8,2
+DHDP1,SPE Central,Personal Productivity,Subskill 8,2
+DHDP1,SPE Central,Project Management,Change Order Management,1
+DHDP1,SPE Central,Project Management,Technical Support,1
+DHDP1,SPE Central,Project Management,NB4 Date Management,1
+DHDP1,SPE Central,Project Management,APM Certification,1
+DHDP1,SPE Central,Project Management,PMP Certification,1
+DHDP1,SPE Central,Project Scheduling,Sales Forecast Accuracy,1
+DHDP1,SPE Central,Quality Assurance,Subskill 10,1
+DHDP1,SPE Central,Reporting,Reporting,2
+DHDP1,SPE Central,Risk Management,Risk Management & Method,1
+DHDP1,SPE Central,Simplification,Subskill 12,1
+DHDP2,SPE Central,Adaptability,Subskill 1,3
+DHDP2,SPE Central,Administrative Knowledge,Subskill 2,3
+DHDP2,SPE Central,Business Intelligence Tools,Subskill 3,2
+DHDP2,SPE Central,Communication,Collaboration across BU/Function,3
+DHDP2,SPE Central,Communication,Responsability - customer centric,3
+DHDP2,SPE Central,Customer Orientation,Ownership Accountability,3
+DHDP2,SPE Central,Database Management,Subskill 5,3
+DHDP2,SPE Central,Digital Literacy,On boarding Training Path,2
+DHDP2,SPE Central,Digital Literacy,On boarding plan - Regional path,2
+DHDP2,SPE Central,Digital Literacy,MLL/Coursera,2
+DHDP2,SPE Central,Digital Literacy,Teams/Outlook/M365,2
+DHDP2,SPE Central,Digital Literacy,Spice+,2
+DHDP2,SPE Central,Digital Literacy,Folder,2
+DHDP2,SPE Central,Digital Literacy,SEA,2
+DHDP2,SPE Central,Digital Literacy,bFO,2
+DHDP2,SPE Central,Digital Literacy,CPS,2
+DHDP2,SPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP2,SPE Central,Digital Literacy,Who's who,2
+DHDP2,SPE Central,Digital Literacy,Escalation process,2
+DHDP2,SPE Central,Digital Literacy,PHR,2
+DHDP2,SPE Central,Digital Literacy,Career Hub,2
+DHDP2,SPE Central,Digital Literacy,Achievers,2
+DHDP2,SPE Central,Document Management System,Subskill 7,3
+DHDP2,SPE Central,Documentation,Subskill 8,3
+DHDP2,SPE Central,Personal Productivity,Subskill 8,3
+DHDP2,SPE Central,Project Management,Change Order Management,2
+DHDP2,SPE Central,Project Management,Technical Support,2
+DHDP2,SPE Central,Project Management,NB4 Date Management,2
+DHDP2,SPE Central,Project Management,APM Certification,2
+DHDP2,SPE Central,Project Management,PMP Certification,2
+DHDP2,SPE Central,Project Scheduling,Sales Forecast Accuracy,2
+DHDP2,SPE Central,Quality Assurance,Subskill 10,2
+DHDP2,SPE Central,Reporting,Reporting,3
+DHDP2,SPE Central,Risk Management,Risk Management & Method,1
+DHDP2,SPE Central,Simplification,Subskill 12,2
+DHDP3,SPE Central,Adaptability,Subskill 1,3
+DHDP3,SPE Central,Administrative Knowledge,Subskill 2,2
+DHDP3,SPE Central,Business Intelligence Tools,Subskill 3,3
+DHDP3,SPE Central,Communication,Collaboration across BU/Function,4
+DHDP3,SPE Central,Communication,Responsability - customer centric,4
+DHDP3,SPE Central,Customer Orientation,Ownership Accountability,4
+DHDP3,SPE Central,Database Management,Subskill 5,2
+DHDP3,SPE Central,Digital Literacy,On boarding Training Path,2
+DHDP3,SPE Central,Digital Literacy,On boarding plan - Regional path,2
+DHDP3,SPE Central,Digital Literacy,MLL/Coursera,2
+DHDP3,SPE Central,Digital Literacy,Teams/Outlook/M365,2
+DHDP3,SPE Central,Digital Literacy,Spice+,2
+DHDP3,SPE Central,Digital Literacy,Folder,2
+DHDP3,SPE Central,Digital Literacy,SEA,2
+DHDP3,SPE Central,Digital Literacy,bFO,2
+DHDP3,SPE Central,Digital Literacy,CPS,2
+DHDP3,SPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP3,SPE Central,Digital Literacy,Who's who,2
+DHDP3,SPE Central,Digital Literacy,Escalation process,2
+DHDP3,SPE Central,Digital Literacy,PHR,2
+DHDP3,SPE Central,Digital Literacy,Career Hub,2
+DHDP3,SPE Central,Digital Literacy,Achievers,2
+DHDP3,SPE Central,Document Management System,Subskill 7,4
+DHDP3,SPE Central,Documentation,Subskill 8,4
+DHDP3,SPE Central,Personal Productivity,Subskill 8,4
+DHDP3,SPE Central,Project Management,Change Order Management,3
+DHDP3,SPE Central,Project Management,Technical Support,3
+DHDP3,SPE Central,Project Management,NB4 Date Management,3
+DHDP3,SPE Central,Project Management,APM Certification,3
+DHDP3,SPE Central,Project Management,PMP Certification,3
+DHDP3,SPE Central,Project Scheduling,Sales Forecast Accuracy,3
+DHDP3,SPE Central,Quality Assurance,Subskill 10,3
+DHDP3,SPE Central,Reporting,Reporting,4
+DHDP3,SPE Central,Risk Management,Risk Management & Method,2
+DHDP3,SPE Central,Simplification,Subskill 12,3
+DPPP1,SPE East,Analytical Thinking,Problem Solving,2
+DPPP1,SPE East,Budgeting,Accounting,1
+DPPP1,SPE East,Business Intelligence Tools,Subskill 3,1
+DPPP1,SPE East,Communication,Collaboration across BU/Function,2
+DPPP1,SPE East,Communication,Responsability - customer centric,2
+DPPP1,SPE East,Consulting,Subskill 4,1
+DPPP1,SPE East,Contract Management,Contract Management,1
+DPPP1,SPE East,Customer Orientation,Ownership Accountability,2
+DPPP1,SPE East,Decision Making,Subskill 6,1
+DPPP1,SPE East,Digital Literacy,On boarding Training Path,2
+DPPP1,SPE East,Digital Literacy,On boarding plan - Regional path,2
+DPPP1,SPE East,Digital Literacy,MLL/Coursera,2
+DPPP1,SPE East,Digital Literacy,Teams/Outlook/M365,2
+DPPP1,SPE East,Digital Literacy,Spice+,2
+DPPP1,SPE East,Digital Literacy,Folder,2
+DPPP1,SPE East,Digital Literacy,SEA,2
+DPPP1,SPE East,Digital Literacy,bFO,2
+DPPP1,SPE East,Digital Literacy,CPS,2
+DPPP1,SPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP1,SPE East,Digital Literacy,Who's who,2
+DPPP1,SPE East,Digital Literacy,Escalation process,2
+DPPP1,SPE East,Digital Literacy,PHR,2
+DPPP1,SPE East,Digital Literacy,Career Hub,2
+DPPP1,SPE East,Digital Literacy,Achievers,2
+DPPP1,SPE East,Financial Management,Financial Acumen,1
+DPPP1,SPE East,Operational Efficiency,AI learning & mechanics,2
+DPPP1,SPE East,Prioritization,Subskill 9,2
+DPPP1,SPE East,Project Management,Change Order Management,2
+DPPP1,SPE East,Project Management,Technical Support,2
+DPPP1,SPE East,Project Management,NB4 Date Management,2
+DPPP1,SPE East,Project Management,APM Certification,2
+DPPP1,SPE East,Project Management,PMP Certification,2
+DPPP1,SPE East,Reporting,Reporting,1
+DPPP1,SPE East,Risk Management,Risk Management & Method,1
+DPPP1,SPE East,Safety Regulations,Subskill 11,2
+DPPP2,SPE East,Analytical Thinking,Problem Solving,2
+DPPP2,SPE East,Budgeting,Accounting,1
+DPPP2,SPE East,Communication,Collaboration across BU/Function,2
+DPPP2,SPE East,Communication,Responsability - customer centric,2
+DPPP2,SPE East,Consulting,Subskill 4,1
+DPPP2,SPE East,Contract Management,Contract Management,1
+DPPP2,SPE East,Customer Orientation,Ownership Accountability,2
+DPPP2,SPE East,Decision Making,Subskill 6,2
+DPPP2,SPE East,Digital Literacy,On boarding Training Path,2
+DPPP2,SPE East,Digital Literacy,On boarding plan - Regional path,2
+DPPP2,SPE East,Digital Literacy,MLL/Coursera,2
+DPPP2,SPE East,Digital Literacy,Teams/Outlook/M365,2
+DPPP2,SPE East,Digital Literacy,Spice+,2
+DPPP2,SPE East,Digital Literacy,Folder,2
+DPPP2,SPE East,Digital Literacy,SEA,2
+DPPP2,SPE East,Digital Literacy,bFO,2
+DPPP2,SPE East,Digital Literacy,CPS,2
+DPPP2,SPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP2,SPE East,Digital Literacy,Who's who,2
+DPPP2,SPE East,Digital Literacy,Escalation process,2
+DPPP2,SPE East,Digital Literacy,PHR,2
+DPPP2,SPE East,Digital Literacy,Career Hub,2
+DPPP2,SPE East,Digital Literacy,Achievers,2
+DPPP2,SPE East,Financial Management,Financial Acumen,1
+DPPP2,SPE East,Operational Efficiency,AI learning & mechanics,2
+DPPP2,SPE East,Prioritization,Subskill 9,3
+DPPP2,SPE East,Project Management,Change Order Management,2
+DPPP2,SPE East,Project Management,Technical Support,2
+DPPP2,SPE East,Project Management,NB4 Date Management,2
+DPPP2,SPE East,Project Management,APM Certification,2
+DPPP2,SPE East,Project Management,PMP Certification,2
+DPPP2,SPE East,Reporting,Reporting,1
+DPPP2,SPE East,Risk Management,Risk Management & Method,1
+DPPP2,SPE East,Safety Regulations,Subskill 11,2
+DPPP3,SPE East,Analytical Thinking,Problem Solving,3
+DPPP3,SPE East,Budgeting,Accounting,2
+DPPP3,SPE East,Communication,Collaboration across BU/Function,3
+DPPP3,SPE East,Communication,Responsability - customer centric,3
+DPPP3,SPE East,Consulting,Subskill 4,2
+DPPP3,SPE East,Contract Management,Contract Management,2
+DPPP3,SPE East,Customer Orientation,Ownership Accountability,3
+DPPP3,SPE East,Decision Making,Subskill 6,3
+DPPP3,SPE East,Digital Literacy,On boarding Training Path,2
+DPPP3,SPE East,Digital Literacy,On boarding plan - Regional path,2
+DPPP3,SPE East,Digital Literacy,MLL/Coursera,2
+DPPP3,SPE East,Digital Literacy,Teams/Outlook/M365,2
+DPPP3,SPE East,Digital Literacy,Spice+,2
+DPPP3,SPE East,Digital Literacy,Folder,2
+DPPP3,SPE East,Digital Literacy,SEA,2
+DPPP3,SPE East,Digital Literacy,bFO,2
+DPPP3,SPE East,Digital Literacy,CPS,2
+DPPP3,SPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP3,SPE East,Digital Literacy,Who's who,2
+DPPP3,SPE East,Digital Literacy,Escalation process,2
+DPPP3,SPE East,Digital Literacy,PHR,2
+DPPP3,SPE East,Digital Literacy,Career Hub,2
+DPPP3,SPE East,Digital Literacy,Achievers,2
+DPPP3,SPE East,Financial Management,Financial Acumen,2
+DPPP3,SPE East,Operational Efficiency,AI learning & mechanics,3
+DPPP3,SPE East,Prioritization,Subskill 9,3
+DPPP3,SPE East,Project Management,Change Order Management,3
+DPPP3,SPE East,Project Management,Technical Support,3
+DPPP3,SPE East,Project Management,NB4 Date Management,3
+DPPP3,SPE East,Project Management,APM Certification,3
+DPPP3,SPE East,Project Management,PMP Certification,3
+DPPP3,SPE East,Reporting,Reporting,2
+DPPP3,SPE East,Risk Management,Risk Management & Method,3
+DPPP3,SPE East,Safety Regulations,Subskill 11,2
+DPPP4,SPE East,Budgeting,Accounting,3
+DPPP4,SPE East,Communication,Collaboration across BU/Function,3
+DPPP4,SPE East,Communication,Responsability - customer centric,3
+DPPP4,SPE East,Consulting,Subskill 4,3
+DPPP4,SPE East,Contract Management,Contract Management,2
+DPPP4,SPE East,Critical Thinking,Emotional Intelligence,3
+DPPP4,SPE East,Critical Thinking,Critical Thinking,3
+DPPP4,SPE East,Customer Orientation,Ownership Accountability,3
+DPPP4,SPE East,Decision Making,Subskill 6,3
+DPPP4,SPE East,Digital Literacy,On boarding Training Path,3
+DPPP4,SPE East,Digital Literacy,On boarding plan - Regional path,3
+DPPP4,SPE East,Digital Literacy,MLL/Coursera,3
+DPPP4,SPE East,Digital Literacy,Teams/Outlook/M365,3
+DPPP4,SPE East,Digital Literacy,Spice+,3
+DPPP4,SPE East,Digital Literacy,Folder,3
+DPPP4,SPE East,Digital Literacy,SEA,3
+DPPP4,SPE East,Digital Literacy,bFO,3
+DPPP4,SPE East,Digital Literacy,CPS,3
+DPPP4,SPE East,Digital Literacy,Cust Sat tool - SCR/PET,3
+DPPP4,SPE East,Digital Literacy,Who's who,3
+DPPP4,SPE East,Digital Literacy,Escalation process,3
+DPPP4,SPE East,Digital Literacy,PHR,3
+DPPP4,SPE East,Digital Literacy,Career Hub,3
+DPPP4,SPE East,Digital Literacy,Achievers,3
+DPPP4,SPE East,Financial Management,Financial Acumen,2
+DPPP4,SPE East,Operational Efficiency,AI learning & mechanics,3
+DPPP4,SPE East,Prioritization,Subskill 9,4
+DPPP4,SPE East,Project Management,Change Order Management,3
+DPPP4,SPE East,Project Management,Technical Support,3
+DPPP4,SPE East,Project Management,NB4 Date Management,3
+DPPP4,SPE East,Project Management,APM Certification,3
+DPPP4,SPE East,Project Management,PMP Certification,3
+DPPP4,SPE East,Reporting,Reporting,2
+DPPP4,SPE East,Risk Management,Risk Management & Method,3
+DPPP4,SPE East,Safety Regulations,Subskill 11,3
+DHDP1,SPE East,Adaptability,Subskill 1,2
+DHDP1,SPE East,Administrative Knowledge,Subskill 2,3
+DHDP1,SPE East,Business Intelligence Tools,Subskill 3,1
+DHDP1,SPE East,Communication,Collaboration across BU/Function,2
+DHDP1,SPE East,Communication,Responsability - customer centric,2
+DHDP1,SPE East,Customer Orientation,Ownership Accountability,2
+DHDP1,SPE East,Database Management,Subskill 5,3
+DHDP1,SPE East,Digital Literacy,On boarding Training Path,2
+DHDP1,SPE East,Digital Literacy,On boarding plan - Regional path,2
+DHDP1,SPE East,Digital Literacy,MLL/Coursera,2
+DHDP1,SPE East,Digital Literacy,Teams/Outlook/M365,2
+DHDP1,SPE East,Digital Literacy,Spice+,2
+DHDP1,SPE East,Digital Literacy,Folder,2
+DHDP1,SPE East,Digital Literacy,SEA,2
+DHDP1,SPE East,Digital Literacy,bFO,2
+DHDP1,SPE East,Digital Literacy,CPS,2
+DHDP1,SPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP1,SPE East,Digital Literacy,Who's who,2
+DHDP1,SPE East,Digital Literacy,Escalation process,2
+DHDP1,SPE East,Digital Literacy,PHR,2
+DHDP1,SPE East,Digital Literacy,Career Hub,2
+DHDP1,SPE East,Digital Literacy,Achievers,2
+DHDP1,SPE East,Document Management System,Subskill 7,2
+DHDP1,SPE East,Documentation,Subskill 8,2
+DHDP1,SPE East,Personal Productivity,Subskill 8,2
+DHDP1,SPE East,Project Management,Change Order Management,1
+DHDP1,SPE East,Project Management,Technical Support,1
+DHDP1,SPE East,Project Management,NB4 Date Management,1
+DHDP1,SPE East,Project Management,APM Certification,1
+DHDP1,SPE East,Project Management,PMP Certification,1
+DHDP1,SPE East,Project Scheduling,Sales Forecast Accuracy,1
+DHDP1,SPE East,Quality Assurance,Subskill 10,1
+DHDP1,SPE East,Reporting,Reporting,2
+DHDP1,SPE East,Risk Management,Risk Management & Method,1
+DHDP1,SPE East,Simplification,Subskill 12,1
+DHDP2,SPE East,Adaptability,Subskill 1,3
+DHDP2,SPE East,Administrative Knowledge,Subskill 2,3
+DHDP2,SPE East,Business Intelligence Tools,Subskill 3,2
+DHDP2,SPE East,Communication,Collaboration across BU/Function,3
+DHDP2,SPE East,Communication,Responsability - customer centric,3
+DHDP2,SPE East,Customer Orientation,Ownership Accountability,3
+DHDP2,SPE East,Database Management,Subskill 5,3
+DHDP2,SPE East,Digital Literacy,On boarding Training Path,2
+DHDP2,SPE East,Digital Literacy,On boarding plan - Regional path,2
+DHDP2,SPE East,Digital Literacy,MLL/Coursera,2
+DHDP2,SPE East,Digital Literacy,Teams/Outlook/M365,2
+DHDP2,SPE East,Digital Literacy,Spice+,2
+DHDP2,SPE East,Digital Literacy,Folder,2
+DHDP2,SPE East,Digital Literacy,SEA,2
+DHDP2,SPE East,Digital Literacy,bFO,2
+DHDP2,SPE East,Digital Literacy,CPS,2
+DHDP2,SPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP2,SPE East,Digital Literacy,Who's who,2
+DHDP2,SPE East,Digital Literacy,Escalation process,2
+DHDP2,SPE East,Digital Literacy,PHR,2
+DHDP2,SPE East,Digital Literacy,Career Hub,2
+DHDP2,SPE East,Digital Literacy,Achievers,2
+DHDP2,SPE East,Document Management System,Subskill 7,3
+DHDP2,SPE East,Documentation,Subskill 8,3
+DHDP2,SPE East,Personal Productivity,Subskill 8,3
+DHDP2,SPE East,Project Management,Change Order Management,2
+DHDP2,SPE East,Project Management,Technical Support,2
+DHDP2,SPE East,Project Management,NB4 Date Management,2
+DHDP2,SPE East,Project Management,APM Certification,2
+DHDP2,SPE East,Project Management,PMP Certification,2
+DHDP2,SPE East,Project Scheduling,Sales Forecast Accuracy,2
+DHDP2,SPE East,Quality Assurance,Subskill 10,2
+DHDP2,SPE East,Reporting,Reporting,3
+DHDP2,SPE East,Risk Management,Risk Management & Method,1
+DHDP2,SPE East,Simplification,Subskill 12,2
+DHDP3,SPE East,Adaptability,Subskill 1,3
+DHDP3,SPE East,Administrative Knowledge,Subskill 2,2
+DHDP3,SPE East,Business Intelligence Tools,Subskill 3,3
+DHDP3,SPE East,Communication,Collaboration across BU/Function,4
+DHDP3,SPE East,Communication,Responsability - customer centric,4
+DHDP3,SPE East,Customer Orientation,Ownership Accountability,4
+DHDP3,SPE East,Database Management,Subskill 5,2
+DHDP3,SPE East,Digital Literacy,On boarding Training Path,2
+DHDP3,SPE East,Digital Literacy,On boarding plan - Regional path,2
+DHDP3,SPE East,Digital Literacy,MLL/Coursera,2
+DHDP3,SPE East,Digital Literacy,Teams/Outlook/M365,2
+DHDP3,SPE East,Digital Literacy,Spice+,2
+DHDP3,SPE East,Digital Literacy,Folder,2
+DHDP3,SPE East,Digital Literacy,SEA,2
+DHDP3,SPE East,Digital Literacy,bFO,2
+DHDP3,SPE East,Digital Literacy,CPS,2
+DHDP3,SPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP3,SPE East,Digital Literacy,Who's who,2
+DHDP3,SPE East,Digital Literacy,Escalation process,2
+DHDP3,SPE East,Digital Literacy,PHR,2
+DHDP3,SPE East,Digital Literacy,Career Hub,2
+DHDP3,SPE East,Digital Literacy,Achievers,2
+DHDP3,SPE East,Document Management System,Subskill 7,4
+DHDP3,SPE East,Documentation,Subskill 8,4
+DHDP3,SPE East,Personal Productivity,Subskill 8,4
+DHDP3,SPE East,Project Management,Change Order Management,3
+DHDP3,SPE East,Project Management,Technical Support,3
+DHDP3,SPE East,Project Management,NB4 Date Management,3
+DHDP3,SPE East,Project Management,APM Certification,3
+DHDP3,SPE East,Project Management,PMP Certification,3
+DHDP3,SPE East,Project Scheduling,Sales Forecast Accuracy,3
+DHDP3,SPE East,Quality Assurance,Subskill 10,3
+DHDP3,SPE East,Reporting,Reporting,4
+DHDP3,SPE East,Risk Management,Risk Management & Method,2
+DHDP3,SPE East,Simplification,Subskill 12,3
+DPPP1,EPE West,Analytical Thinking,Problem Solving,2
+DPPP1,EPE West,Budgeting,Accounting,1
+DPPP1,EPE West,Business Intelligence Tools,Subskill 3,1
+DPPP1,EPE West,Communication,Collaboration across BU/Function,2
+DPPP1,EPE West,Communication,Responsability - customer centric,2
+DPPP1,EPE West,Consulting,Subskill 4,1
+DPPP1,EPE West,Contract Management,Contract Management,1
+DPPP1,EPE West,Customer Orientation,Ownership Accountability,2
+DPPP1,EPE West,Decision Making,Subskill 6,1
+DPPP1,EPE West,Digital Literacy,On boarding Training Path,2
+DPPP1,EPE West,Digital Literacy,On boarding plan - Regional path,2
+DPPP1,EPE West,Digital Literacy,MLL/Coursera,2
+DPPP1,EPE West,Digital Literacy,Teams/Outlook/M365,2
+DPPP1,EPE West,Digital Literacy,Spice+,2
+DPPP1,EPE West,Digital Literacy,Folder,2
+DPPP1,EPE West,Digital Literacy,SEA,2
+DPPP1,EPE West,Digital Literacy,bFO,2
+DPPP1,EPE West,Digital Literacy,CPS,2
+DPPP1,EPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP1,EPE West,Digital Literacy,Who's who,2
+DPPP1,EPE West,Digital Literacy,Escalation process,2
+DPPP1,EPE West,Digital Literacy,PHR,2
+DPPP1,EPE West,Digital Literacy,Career Hub,2
+DPPP1,EPE West,Digital Literacy,Achievers,2
+DPPP1,EPE West,Financial Management,Financial Acumen,1
+DPPP1,EPE West,Operational Efficiency,AI learning & mechanics,2
+DPPP1,EPE West,Prioritization,Subskill 9,2
+DPPP1,EPE West,Project Management,Change Order Management,2
+DPPP1,EPE West,Project Management,Technical Support,2
+DPPP1,EPE West,Project Management,NB4 Date Management,2
+DPPP1,EPE West,Project Management,APM Certification,2
+DPPP1,EPE West,Project Management,PMP Certification,2
+DPPP1,EPE West,Reporting,Reporting,1
+DPPP1,EPE West,Risk Management,Risk Management & Method,1
+DPPP1,EPE West,Safety Regulations,Subskill 11,2
+DPPP2,EPE West,Analytical Thinking,Problem Solving,2
+DPPP2,EPE West,Budgeting,Accounting,1
+DPPP2,EPE West,Communication,Collaboration across BU/Function,2
+DPPP2,EPE West,Communication,Responsability - customer centric,2
+DPPP2,EPE West,Consulting,Subskill 4,1
+DPPP2,EPE West,Contract Management,Contract Management,1
+DPPP2,EPE West,Customer Orientation,Ownership Accountability,2
+DPPP2,EPE West,Decision Making,Subskill 6,2
+DPPP2,EPE West,Digital Literacy,On boarding Training Path,2
+DPPP2,EPE West,Digital Literacy,On boarding plan - Regional path,2
+DPPP2,EPE West,Digital Literacy,MLL/Coursera,2
+DPPP2,EPE West,Digital Literacy,Teams/Outlook/M365,2
+DPPP2,EPE West,Digital Literacy,Spice+,2
+DPPP2,EPE West,Digital Literacy,Folder,2
+DPPP2,EPE West,Digital Literacy,SEA,2
+DPPP2,EPE West,Digital Literacy,bFO,2
+DPPP2,EPE West,Digital Literacy,CPS,2
+DPPP2,EPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP2,EPE West,Digital Literacy,Who's who,2
+DPPP2,EPE West,Digital Literacy,Escalation process,2
+DPPP2,EPE West,Digital Literacy,PHR,2
+DPPP2,EPE West,Digital Literacy,Career Hub,2
+DPPP2,EPE West,Digital Literacy,Achievers,2
+DPPP2,EPE West,Financial Management,Financial Acumen,1
+DPPP2,EPE West,Operational Efficiency,AI learning & mechanics,2
+DPPP2,EPE West,Prioritization,Subskill 9,3
+DPPP2,EPE West,Project Management,Change Order Management,2
+DPPP2,EPE West,Project Management,Technical Support,2
+DPPP2,EPE West,Project Management,NB4 Date Management,2
+DPPP2,EPE West,Project Management,APM Certification,2
+DPPP2,EPE West,Project Management,PMP Certification,2
+DPPP2,EPE West,Reporting,Reporting,1
+DPPP2,EPE West,Risk Management,Risk Management & Method,1
+DPPP2,EPE West,Safety Regulations,Subskill 11,2
+DPPP3,EPE West,Analytical Thinking,Problem Solving,3
+DPPP3,EPE West,Budgeting,Accounting,2
+DPPP3,EPE West,Communication,Collaboration across BU/Function,3
+DPPP3,EPE West,Communication,Responsability - customer centric,3
+DPPP3,EPE West,Consulting,Subskill 4,2
+DPPP3,EPE West,Contract Management,Contract Management,2
+DPPP3,EPE West,Customer Orientation,Ownership Accountability,3
+DPPP3,EPE West,Decision Making,Subskill 6,3
+DPPP3,EPE West,Digital Literacy,On boarding Training Path,2
+DPPP3,EPE West,Digital Literacy,On boarding plan - Regional path,2
+DPPP3,EPE West,Digital Literacy,MLL/Coursera,2
+DPPP3,EPE West,Digital Literacy,Teams/Outlook/M365,2
+DPPP3,EPE West,Digital Literacy,Spice+,2
+DPPP3,EPE West,Digital Literacy,Folder,2
+DPPP3,EPE West,Digital Literacy,SEA,2
+DPPP3,EPE West,Digital Literacy,bFO,2
+DPPP3,EPE West,Digital Literacy,CPS,2
+DPPP3,EPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP3,EPE West,Digital Literacy,Who's who,2
+DPPP3,EPE West,Digital Literacy,Escalation process,2
+DPPP3,EPE West,Digital Literacy,PHR,2
+DPPP3,EPE West,Digital Literacy,Career Hub,2
+DPPP3,EPE West,Digital Literacy,Achievers,2
+DPPP3,EPE West,Financial Management,Financial Acumen,2
+DPPP3,EPE West,Operational Efficiency,AI learning & mechanics,3
+DPPP3,EPE West,Prioritization,Subskill 9,3
+DPPP3,EPE West,Project Management,Change Order Management,3
+DPPP3,EPE West,Project Management,Technical Support,3
+DPPP3,EPE West,Project Management,NB4 Date Management,3
+DPPP3,EPE West,Project Management,APM Certification,3
+DPPP3,EPE West,Project Management,PMP Certification,3
+DPPP3,EPE West,Reporting,Reporting,2
+DPPP3,EPE West,Risk Management,Risk Management & Method,3
+DPPP3,EPE West,Safety Regulations,Subskill 11,2
+DPPP4,EPE West,Budgeting,Accounting,3
+DPPP4,EPE West,Communication,Collaboration across BU/Function,3
+DPPP4,EPE West,Communication,Responsability - customer centric,3
+DPPP4,EPE West,Consulting,Subskill 4,3
+DPPP4,EPE West,Contract Management,Contract Management,2
+DPPP4,EPE West,Critical Thinking,Emotional Intelligence,3
+DPPP4,EPE West,Critical Thinking,Critical Thinking,3
+DPPP4,EPE West,Customer Orientation,Ownership Accountability,3
+DPPP4,EPE West,Decision Making,Subskill 6,3
+DPPP4,EPE West,Digital Literacy,On boarding Training Path,3
+DPPP4,EPE West,Digital Literacy,On boarding plan - Regional path,3
+DPPP4,EPE West,Digital Literacy,MLL/Coursera,3
+DPPP4,EPE West,Digital Literacy,Teams/Outlook/M365,3
+DPPP4,EPE West,Digital Literacy,Spice+,3
+DPPP4,EPE West,Digital Literacy,Folder,3
+DPPP4,EPE West,Digital Literacy,SEA,3
+DPPP4,EPE West,Digital Literacy,bFO,3
+DPPP4,EPE West,Digital Literacy,CPS,3
+DPPP4,EPE West,Digital Literacy,Cust Sat tool - SCR/PET,3
+DPPP4,EPE West,Digital Literacy,Who's who,3
+DPPP4,EPE West,Digital Literacy,Escalation process,3
+DPPP4,EPE West,Digital Literacy,PHR,3
+DPPP4,EPE West,Digital Literacy,Career Hub,3
+DPPP4,EPE West,Digital Literacy,Achievers,3
+DPPP4,EPE West,Financial Management,Financial Acumen,2
+DPPP4,EPE West,Operational Efficiency,AI learning & mechanics,3
+DPPP4,EPE West,Prioritization,Subskill 9,4
+DPPP4,EPE West,Project Management,Change Order Management,3
+DPPP4,EPE West,Project Management,Technical Support,3
+DPPP4,EPE West,Project Management,NB4 Date Management,3
+DPPP4,EPE West,Project Management,APM Certification,3
+DPPP4,EPE West,Project Management,PMP Certification,3
+DPPP4,EPE West,Reporting,Reporting,2
+DPPP4,EPE West,Risk Management,Risk Management & Method,3
+DPPP4,EPE West,Safety Regulations,Subskill 11,3
+DHDP1,EPE West,Adaptability,Subskill 1,2
+DHDP1,EPE West,Administrative Knowledge,Subskill 2,3
+DHDP1,EPE West,Business Intelligence Tools,Subskill 3,1
+DHDP1,EPE West,Communication,Collaboration across BU/Function,2
+DHDP1,EPE West,Communication,Responsability - customer centric,2
+DHDP1,EPE West,Customer Orientation,Ownership Accountability,2
+DHDP1,EPE West,Database Management,Subskill 5,3
+DHDP1,EPE West,Digital Literacy,On boarding Training Path,2
+DHDP1,EPE West,Digital Literacy,On boarding plan - Regional path,2
+DHDP1,EPE West,Digital Literacy,MLL/Coursera,2
+DHDP1,EPE West,Digital Literacy,Teams/Outlook/M365,2
+DHDP1,EPE West,Digital Literacy,Spice+,2
+DHDP1,EPE West,Digital Literacy,Folder,2
+DHDP1,EPE West,Digital Literacy,SEA,2
+DHDP1,EPE West,Digital Literacy,bFO,2
+DHDP1,EPE West,Digital Literacy,CPS,2
+DHDP1,EPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP1,EPE West,Digital Literacy,Who's who,2
+DHDP1,EPE West,Digital Literacy,Escalation process,2
+DHDP1,EPE West,Digital Literacy,PHR,2
+DHDP1,EPE West,Digital Literacy,Career Hub,2
+DHDP1,EPE West,Digital Literacy,Achievers,2
+DHDP1,EPE West,Document Management System,Subskill 7,2
+DHDP1,EPE West,Documentation,Subskill 8,2
+DHDP1,EPE West,Personal Productivity,Subskill 8,2
+DHDP1,EPE West,Project Management,Change Order Management,1
+DHDP1,EPE West,Project Management,Technical Support,1
+DHDP1,EPE West,Project Management,NB4 Date Management,1
+DHDP1,EPE West,Project Management,APM Certification,1
+DHDP1,EPE West,Project Management,PMP Certification,1
+DHDP1,EPE West,Project Scheduling,Sales Forecast Accuracy,1
+DHDP1,EPE West,Quality Assurance,Subskill 10,1
+DHDP1,EPE West,Reporting,Reporting,2
+DHDP1,EPE West,Risk Management,Risk Management & Method,1
+DHDP1,EPE West,Simplification,Subskill 12,1
+DHDP2,EPE West,Adaptability,Subskill 1,3
+DHDP2,EPE West,Administrative Knowledge,Subskill 2,3
+DHDP2,EPE West,Business Intelligence Tools,Subskill 3,2
+DHDP2,EPE West,Communication,Collaboration across BU/Function,3
+DHDP2,EPE West,Communication,Responsability - customer centric,3
+DHDP2,EPE West,Customer Orientation,Ownership Accountability,3
+DHDP2,EPE West,Database Management,Subskill 5,3
+DHDP2,EPE West,Digital Literacy,On boarding Training Path,2
+DHDP2,EPE West,Digital Literacy,On boarding plan - Regional path,2
+DHDP2,EPE West,Digital Literacy,MLL/Coursera,2
+DHDP2,EPE West,Digital Literacy,Teams/Outlook/M365,2
+DHDP2,EPE West,Digital Literacy,Spice+,2
+DHDP2,EPE West,Digital Literacy,Folder,2
+DHDP2,EPE West,Digital Literacy,SEA,2
+DHDP2,EPE West,Digital Literacy,bFO,2
+DHDP2,EPE West,Digital Literacy,CPS,2
+DHDP2,EPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP2,EPE West,Digital Literacy,Who's who,2
+DHDP2,EPE West,Digital Literacy,Escalation process,2
+DHDP2,EPE West,Digital Literacy,PHR,2
+DHDP2,EPE West,Digital Literacy,Career Hub,2
+DHDP2,EPE West,Digital Literacy,Achievers,2
+DHDP2,EPE West,Document Management System,Subskill 7,3
+DHDP2,EPE West,Documentation,Subskill 8,3
+DHDP2,EPE West,Personal Productivity,Subskill 8,3
+DHDP2,EPE West,Project Management,Change Order Management,2
+DHDP2,EPE West,Project Management,Technical Support,2
+DHDP2,EPE West,Project Management,NB4 Date Management,2
+DHDP2,EPE West,Project Management,APM Certification,2
+DHDP2,EPE West,Project Management,PMP Certification,2
+DHDP2,EPE West,Project Scheduling,Sales Forecast Accuracy,2
+DHDP2,EPE West,Quality Assurance,Subskill 10,2
+DHDP2,EPE West,Reporting,Reporting,3
+DHDP2,EPE West,Risk Management,Risk Management & Method,1
+DHDP2,EPE West,Simplification,Subskill 12,2
+DHDP3,EPE West,Adaptability,Subskill 1,3
+DHDP3,EPE West,Administrative Knowledge,Subskill 2,2
+DHDP3,EPE West,Business Intelligence Tools,Subskill 3,3
+DHDP3,EPE West,Communication,Collaboration across BU/Function,4
+DHDP3,EPE West,Communication,Responsability - customer centric,4
+DHDP3,EPE West,Customer Orientation,Ownership Accountability,4
+DHDP3,EPE West,Database Management,Subskill 5,2
+DHDP3,EPE West,Digital Literacy,On boarding Training Path,2
+DHDP3,EPE West,Digital Literacy,On boarding plan - Regional path,2
+DHDP3,EPE West,Digital Literacy,MLL/Coursera,2
+DHDP3,EPE West,Digital Literacy,Teams/Outlook/M365,2
+DHDP3,EPE West,Digital Literacy,Spice+,2
+DHDP3,EPE West,Digital Literacy,Folder,2
+DHDP3,EPE West,Digital Literacy,SEA,2
+DHDP3,EPE West,Digital Literacy,bFO,2
+DHDP3,EPE West,Digital Literacy,CPS,2
+DHDP3,EPE West,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP3,EPE West,Digital Literacy,Who's who,2
+DHDP3,EPE West,Digital Literacy,Escalation process,2
+DHDP3,EPE West,Digital Literacy,PHR,2
+DHDP3,EPE West,Digital Literacy,Career Hub,2
+DHDP3,EPE West,Digital Literacy,Achievers,2
+DHDP3,EPE West,Document Management System,Subskill 7,4
+DHDP3,EPE West,Documentation,Subskill 8,4
+DHDP3,EPE West,Personal Productivity,Subskill 8,4
+DHDP3,EPE West,Project Management,Change Order Management,3
+DHDP3,EPE West,Project Management,Technical Support,3
+DHDP3,EPE West,Project Management,NB4 Date Management,3
+DHDP3,EPE West,Project Management,APM Certification,3
+DHDP3,EPE West,Project Management,PMP Certification,3
+DHDP3,EPE West,Project Scheduling,Sales Forecast Accuracy,3
+DHDP3,EPE West,Quality Assurance,Subskill 10,3
+DHDP3,EPE West,Reporting,Reporting,4
+DHDP3,EPE West,Risk Management,Risk Management & Method,2
+DHDP3,EPE West,Simplification,Subskill 12,3
+DPPP1,EPE Central,Analytical Thinking,Problem Solving,2
+DPPP1,EPE Central,Budgeting,Accounting,1
+DPPP1,EPE Central,Business Intelligence Tools,Subskill 3,1
+DPPP1,EPE Central,Communication,Collaboration across BU/Function,2
+DPPP1,EPE Central,Communication,Responsability - customer centric,2
+DPPP1,EPE Central,Consulting,Subskill 4,1
+DPPP1,EPE Central,Contract Management,Contract Management,1
+DPPP1,EPE Central,Customer Orientation,Ownership Accountability,2
+DPPP1,EPE Central,Decision Making,Subskill 6,1
+DPPP1,EPE Central,Digital Literacy,On boarding Training Path,2
+DPPP1,EPE Central,Digital Literacy,On boarding plan - Regional path,2
+DPPP1,EPE Central,Digital Literacy,MLL/Coursera,2
+DPPP1,EPE Central,Digital Literacy,Teams/Outlook/M365,2
+DPPP1,EPE Central,Digital Literacy,Spice+,2
+DPPP1,EPE Central,Digital Literacy,Folder,2
+DPPP1,EPE Central,Digital Literacy,SEA,2
+DPPP1,EPE Central,Digital Literacy,bFO,2
+DPPP1,EPE Central,Digital Literacy,CPS,2
+DPPP1,EPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP1,EPE Central,Digital Literacy,Who's who,2
+DPPP1,EPE Central,Digital Literacy,Escalation process,2
+DPPP1,EPE Central,Digital Literacy,PHR,2
+DPPP1,EPE Central,Digital Literacy,Career Hub,2
+DPPP1,EPE Central,Digital Literacy,Achievers,2
+DPPP1,EPE Central,Financial Management,Financial Acumen,1
+DPPP1,EPE Central,Operational Efficiency,AI learning & mechanics,2
+DPPP1,EPE Central,Prioritization,Subskill 9,2
+DPPP1,EPE Central,Project Management,Change Order Management,2
+DPPP1,EPE Central,Project Management,Technical Support,2
+DPPP1,EPE Central,Project Management,NB4 Date Management,2
+DPPP1,EPE Central,Project Management,APM Certification,2
+DPPP1,EPE Central,Project Management,PMP Certification,2
+DPPP1,EPE Central,Reporting,Reporting,1
+DPPP1,EPE Central,Risk Management,Risk Management & Method,1
+DPPP1,EPE Central,Safety Regulations,Subskill 11,2
+DPPP2,EPE Central,Analytical Thinking,Problem Solving,2
+DPPP2,EPE Central,Budgeting,Accounting,1
+DPPP2,EPE Central,Communication,Collaboration across BU/Function,2
+DPPP2,EPE Central,Communication,Responsability - customer centric,2
+DPPP2,EPE Central,Consulting,Subskill 4,1
+DPPP2,EPE Central,Contract Management,Contract Management,1
+DPPP2,EPE Central,Customer Orientation,Ownership Accountability,2
+DPPP2,EPE Central,Decision Making,Subskill 6,2
+DPPP2,EPE Central,Digital Literacy,On boarding Training Path,2
+DPPP2,EPE Central,Digital Literacy,On boarding plan - Regional path,2
+DPPP2,EPE Central,Digital Literacy,MLL/Coursera,2
+DPPP2,EPE Central,Digital Literacy,Teams/Outlook/M365,2
+DPPP2,EPE Central,Digital Literacy,Spice+,2
+DPPP2,EPE Central,Digital Literacy,Folder,2
+DPPP2,EPE Central,Digital Literacy,SEA,2
+DPPP2,EPE Central,Digital Literacy,bFO,2
+DPPP2,EPE Central,Digital Literacy,CPS,2
+DPPP2,EPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP2,EPE Central,Digital Literacy,Who's who,2
+DPPP2,EPE Central,Digital Literacy,Escalation process,2
+DPPP2,EPE Central,Digital Literacy,PHR,2
+DPPP2,EPE Central,Digital Literacy,Career Hub,2
+DPPP2,EPE Central,Digital Literacy,Achievers,2
+DPPP2,EPE Central,Financial Management,Financial Acumen,1
+DPPP2,EPE Central,Operational Efficiency,AI learning & mechanics,2
+DPPP2,EPE Central,Prioritization,Subskill 9,3
+DPPP2,EPE Central,Project Management,Change Order Management,2
+DPPP2,EPE Central,Project Management,Technical Support,2
+DPPP2,EPE Central,Project Management,NB4 Date Management,2
+DPPP2,EPE Central,Project Management,APM Certification,2
+DPPP2,EPE Central,Project Management,PMP Certification,2
+DPPP2,EPE Central,Reporting,Reporting,1
+DPPP2,EPE Central,Risk Management,Risk Management & Method,1
+DPPP2,EPE Central,Safety Regulations,Subskill 11,2
+DPPP3,EPE Central,Analytical Thinking,Problem Solving,3
+DPPP3,EPE Central,Budgeting,Accounting,2
+DPPP3,EPE Central,Communication,Collaboration across BU/Function,3
+DPPP3,EPE Central,Communication,Responsability - customer centric,3
+DPPP3,EPE Central,Consulting,Subskill 4,2
+DPPP3,EPE Central,Contract Management,Contract Management,2
+DPPP3,EPE Central,Customer Orientation,Ownership Accountability,3
+DPPP3,EPE Central,Decision Making,Subskill 6,3
+DPPP3,EPE Central,Digital Literacy,On boarding Training Path,2
+DPPP3,EPE Central,Digital Literacy,On boarding plan - Regional path,2
+DPPP3,EPE Central,Digital Literacy,MLL/Coursera,2
+DPPP3,EPE Central,Digital Literacy,Teams/Outlook/M365,2
+DPPP3,EPE Central,Digital Literacy,Spice+,2
+DPPP3,EPE Central,Digital Literacy,Folder,2
+DPPP3,EPE Central,Digital Literacy,SEA,2
+DPPP3,EPE Central,Digital Literacy,bFO,2
+DPPP3,EPE Central,Digital Literacy,CPS,2
+DPPP3,EPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP3,EPE Central,Digital Literacy,Who's who,2
+DPPP3,EPE Central,Digital Literacy,Escalation process,2
+DPPP3,EPE Central,Digital Literacy,PHR,2
+DPPP3,EPE Central,Digital Literacy,Career Hub,2
+DPPP3,EPE Central,Digital Literacy,Achievers,2
+DPPP3,EPE Central,Financial Management,Financial Acumen,2
+DPPP3,EPE Central,Operational Efficiency,AI learning & mechanics,3
+DPPP3,EPE Central,Prioritization,Subskill 9,3
+DPPP3,EPE Central,Project Management,Change Order Management,3
+DPPP3,EPE Central,Project Management,Technical Support,3
+DPPP3,EPE Central,Project Management,NB4 Date Management,3
+DPPP3,EPE Central,Project Management,APM Certification,3
+DPPP3,EPE Central,Project Management,PMP Certification,3
+DPPP3,EPE Central,Reporting,Reporting,2
+DPPP3,EPE Central,Risk Management,Risk Management & Method,3
+DPPP3,EPE Central,Safety Regulations,Subskill 11,2
+DPPP4,EPE Central,Budgeting,Accounting,3
+DPPP4,EPE Central,Communication,Collaboration across BU/Function,3
+DPPP4,EPE Central,Communication,Responsability - customer centric,3
+DPPP4,EPE Central,Consulting,Subskill 4,3
+DPPP4,EPE Central,Contract Management,Contract Management,2
+DPPP4,EPE Central,Critical Thinking,Emotional Intelligence,3
+DPPP4,EPE Central,Critical Thinking,Critical Thinking,3
+DPPP4,EPE Central,Customer Orientation,Ownership Accountability,3
+DPPP4,EPE Central,Decision Making,Subskill 6,3
+DPPP4,EPE Central,Digital Literacy,On boarding Training Path,3
+DPPP4,EPE Central,Digital Literacy,On boarding plan - Regional path,3
+DPPP4,EPE Central,Digital Literacy,MLL/Coursera,3
+DPPP4,EPE Central,Digital Literacy,Teams/Outlook/M365,3
+DPPP4,EPE Central,Digital Literacy,Spice+,3
+DPPP4,EPE Central,Digital Literacy,Folder,3
+DPPP4,EPE Central,Digital Literacy,SEA,3
+DPPP4,EPE Central,Digital Literacy,bFO,3
+DPPP4,EPE Central,Digital Literacy,CPS,3
+DPPP4,EPE Central,Digital Literacy,Cust Sat tool - SCR/PET,3
+DPPP4,EPE Central,Digital Literacy,Who's who,3
+DPPP4,EPE Central,Digital Literacy,Escalation process,3
+DPPP4,EPE Central,Digital Literacy,PHR,3
+DPPP4,EPE Central,Digital Literacy,Career Hub,3
+DPPP4,EPE Central,Digital Literacy,Achievers,3
+DPPP4,EPE Central,Financial Management,Financial Acumen,2
+DPPP4,EPE Central,Operational Efficiency,AI learning & mechanics,3
+DPPP4,EPE Central,Prioritization,Subskill 9,4
+DPPP4,EPE Central,Project Management,Change Order Management,3
+DPPP4,EPE Central,Project Management,Technical Support,3
+DPPP4,EPE Central,Project Management,NB4 Date Management,3
+DPPP4,EPE Central,Project Management,APM Certification,3
+DPPP4,EPE Central,Project Management,PMP Certification,3
+DPPP4,EPE Central,Reporting,Reporting,2
+DPPP4,EPE Central,Risk Management,Risk Management & Method,3
+DPPP4,EPE Central,Safety Regulations,Subskill 11,3
+DHDP1,EPE Central,Adaptability,Subskill 1,2
+DHDP1,EPE Central,Administrative Knowledge,Subskill 2,3
+DHDP1,EPE Central,Business Intelligence Tools,Subskill 3,1
+DHDP1,EPE Central,Communication,Collaboration across BU/Function,2
+DHDP1,EPE Central,Communication,Responsability - customer centric,2
+DHDP1,EPE Central,Customer Orientation,Ownership Accountability,2
+DHDP1,EPE Central,Database Management,Subskill 5,3
+DHDP1,EPE Central,Digital Literacy,On boarding Training Path,2
+DHDP1,EPE Central,Digital Literacy,On boarding plan - Regional path,2
+DHDP1,EPE Central,Digital Literacy,MLL/Coursera,2
+DHDP1,EPE Central,Digital Literacy,Teams/Outlook/M365,2
+DHDP1,EPE Central,Digital Literacy,Spice+,2
+DHDP1,EPE Central,Digital Literacy,Folder,2
+DHDP1,EPE Central,Digital Literacy,SEA,2
+DHDP1,EPE Central,Digital Literacy,bFO,2
+DHDP1,EPE Central,Digital Literacy,CPS,2
+DHDP1,EPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP1,EPE Central,Digital Literacy,Who's who,2
+DHDP1,EPE Central,Digital Literacy,Escalation process,2
+DHDP1,EPE Central,Digital Literacy,PHR,2
+DHDP1,EPE Central,Digital Literacy,Career Hub,2
+DHDP1,EPE Central,Digital Literacy,Achievers,2
+DHDP1,EPE Central,Document Management System,Subskill 7,2
+DHDP1,EPE Central,Documentation,Subskill 8,2
+DHDP1,EPE Central,Personal Productivity,Subskill 8,2
+DHDP1,EPE Central,Project Management,Change Order Management,1
+DHDP1,EPE Central,Project Management,Technical Support,1
+DHDP1,EPE Central,Project Management,NB4 Date Management,1
+DHDP1,EPE Central,Project Management,APM Certification,1
+DHDP1,EPE Central,Project Management,PMP Certification,1
+DHDP1,EPE Central,Project Scheduling,Sales Forecast Accuracy,1
+DHDP1,EPE Central,Quality Assurance,Subskill 10,1
+DHDP1,EPE Central,Reporting,Reporting,2
+DHDP1,EPE Central,Risk Management,Risk Management & Method,1
+DHDP1,EPE Central,Simplification,Subskill 12,1
+DHDP2,EPE Central,Adaptability,Subskill 1,3
+DHDP2,EPE Central,Administrative Knowledge,Subskill 2,3
+DHDP2,EPE Central,Business Intelligence Tools,Subskill 3,2
+DHDP2,EPE Central,Communication,Collaboration across BU/Function,3
+DHDP2,EPE Central,Communication,Responsability - customer centric,3
+DHDP2,EPE Central,Customer Orientation,Ownership Accountability,3
+DHDP2,EPE Central,Database Management,Subskill 5,3
+DHDP2,EPE Central,Digital Literacy,On boarding Training Path,2
+DHDP2,EPE Central,Digital Literacy,On boarding plan - Regional path,2
+DHDP2,EPE Central,Digital Literacy,MLL/Coursera,2
+DHDP2,EPE Central,Digital Literacy,Teams/Outlook/M365,2
+DHDP2,EPE Central,Digital Literacy,Spice+,2
+DHDP2,EPE Central,Digital Literacy,Folder,2
+DHDP2,EPE Central,Digital Literacy,SEA,2
+DHDP2,EPE Central,Digital Literacy,bFO,2
+DHDP2,EPE Central,Digital Literacy,CPS,2
+DHDP2,EPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP2,EPE Central,Digital Literacy,Who's who,2
+DHDP2,EPE Central,Digital Literacy,Escalation process,2
+DHDP2,EPE Central,Digital Literacy,PHR,2
+DHDP2,EPE Central,Digital Literacy,Career Hub,2
+DHDP2,EPE Central,Digital Literacy,Achievers,2
+DHDP2,EPE Central,Document Management System,Subskill 7,3
+DHDP2,EPE Central,Documentation,Subskill 8,3
+DHDP2,EPE Central,Personal Productivity,Subskill 8,3
+DHDP2,EPE Central,Project Management,Change Order Management,2
+DHDP2,EPE Central,Project Management,Technical Support,2
+DHDP2,EPE Central,Project Management,NB4 Date Management,2
+DHDP2,EPE Central,Project Management,APM Certification,2
+DHDP2,EPE Central,Project Management,PMP Certification,2
+DHDP2,EPE Central,Project Scheduling,Sales Forecast Accuracy,2
+DHDP2,EPE Central,Quality Assurance,Subskill 10,2
+DHDP2,EPE Central,Reporting,Reporting,3
+DHDP2,EPE Central,Risk Management,Risk Management & Method,1
+DHDP2,EPE Central,Simplification,Subskill 12,2
+DHDP3,EPE Central,Adaptability,Subskill 1,3
+DHDP3,EPE Central,Administrative Knowledge,Subskill 2,2
+DHDP3,EPE Central,Business Intelligence Tools,Subskill 3,3
+DHDP3,EPE Central,Communication,Collaboration across BU/Function,4
+DHDP3,EPE Central,Communication,Responsability - customer centric,4
+DHDP3,EPE Central,Customer Orientation,Ownership Accountability,4
+DHDP3,EPE Central,Database Management,Subskill 5,2
+DHDP3,EPE Central,Digital Literacy,On boarding Training Path,2
+DHDP3,EPE Central,Digital Literacy,On boarding plan - Regional path,2
+DHDP3,EPE Central,Digital Literacy,MLL/Coursera,2
+DHDP3,EPE Central,Digital Literacy,Teams/Outlook/M365,2
+DHDP3,EPE Central,Digital Literacy,Spice+,2
+DHDP3,EPE Central,Digital Literacy,Folder,2
+DHDP3,EPE Central,Digital Literacy,SEA,2
+DHDP3,EPE Central,Digital Literacy,bFO,2
+DHDP3,EPE Central,Digital Literacy,CPS,2
+DHDP3,EPE Central,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP3,EPE Central,Digital Literacy,Who's who,2
+DHDP3,EPE Central,Digital Literacy,Escalation process,2
+DHDP3,EPE Central,Digital Literacy,PHR,2
+DHDP3,EPE Central,Digital Literacy,Career Hub,2
+DHDP3,EPE Central,Digital Literacy,Achievers,2
+DHDP3,EPE Central,Document Management System,Subskill 7,4
+DHDP3,EPE Central,Documentation,Subskill 8,4
+DHDP3,EPE Central,Personal Productivity,Subskill 8,4
+DHDP3,EPE Central,Project Management,Change Order Management,3
+DHDP3,EPE Central,Project Management,Technical Support,3
+DHDP3,EPE Central,Project Management,NB4 Date Management,3
+DHDP3,EPE Central,Project Management,APM Certification,3
+DHDP3,EPE Central,Project Management,PMP Certification,3
+DHDP3,EPE Central,Project Scheduling,Sales Forecast Accuracy,3
+DHDP3,EPE Central,Quality Assurance,Subskill 10,3
+DHDP3,EPE Central,Reporting,Reporting,4
+DHDP3,EPE Central,Risk Management,Risk Management & Method,2
+DHDP3,EPE Central,Simplification,Subskill 12,3
+DPPP1,EPE East,Analytical Thinking,Problem Solving,2
+DPPP1,EPE East,Budgeting,Accounting,1
+DPPP1,EPE East,Business Intelligence Tools,Subskill 3,1
+DPPP1,EPE East,Communication,Collaboration across BU/Function,2
+DPPP1,EPE East,Communication,Responsability - customer centric,2
+DPPP1,EPE East,Consulting,Subskill 4,1
+DPPP1,EPE East,Contract Management,Contract Management,1
+DPPP1,EPE East,Customer Orientation,Ownership Accountability,2
+DPPP1,EPE East,Decision Making,Subskill 6,1
+DPPP1,EPE East,Digital Literacy,On boarding Training Path,2
+DPPP1,EPE East,Digital Literacy,On boarding plan - Regional path,2
+DPPP1,EPE East,Digital Literacy,MLL/Coursera,2
+DPPP1,EPE East,Digital Literacy,Teams/Outlook/M365,2
+DPPP1,EPE East,Digital Literacy,Spice+,2
+DPPP1,EPE East,Digital Literacy,Folder,2
+DPPP1,EPE East,Digital Literacy,SEA,2
+DPPP1,EPE East,Digital Literacy,bFO,2
+DPPP1,EPE East,Digital Literacy,CPS,2
+DPPP1,EPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP1,EPE East,Digital Literacy,Who's who,2
+DPPP1,EPE East,Digital Literacy,Escalation process,2
+DPPP1,EPE East,Digital Literacy,PHR,2
+DPPP1,EPE East,Digital Literacy,Career Hub,2
+DPPP1,EPE East,Digital Literacy,Achievers,2
+DPPP1,EPE East,Financial Management,Financial Acumen,1
+DPPP1,EPE East,Operational Efficiency,AI learning & mechanics,2
+DPPP1,EPE East,Prioritization,Subskill 9,2
+DPPP1,EPE East,Project Management,Change Order Management,2
+DPPP1,EPE East,Project Management,Technical Support,2
+DPPP1,EPE East,Project Management,NB4 Date Management,2
+DPPP1,EPE East,Project Management,APM Certification,2
+DPPP1,EPE East,Project Management,PMP Certification,2
+DPPP1,EPE East,Reporting,Reporting,1
+DPPP1,EPE East,Risk Management,Risk Management & Method,1
+DPPP1,EPE East,Safety Regulations,Subskill 11,2
+DPPP2,EPE East,Analytical Thinking,Problem Solving,2
+DPPP2,EPE East,Budgeting,Accounting,1
+DPPP2,EPE East,Communication,Collaboration across BU/Function,2
+DPPP2,EPE East,Communication,Responsability - customer centric,2
+DPPP2,EPE East,Consulting,Subskill 4,1
+DPPP2,EPE East,Contract Management,Contract Management,1
+DPPP2,EPE East,Customer Orientation,Ownership Accountability,2
+DPPP2,EPE East,Decision Making,Subskill 6,2
+DPPP2,EPE East,Digital Literacy,On boarding Training Path,2
+DPPP2,EPE East,Digital Literacy,On boarding plan - Regional path,2
+DPPP2,EPE East,Digital Literacy,MLL/Coursera,2
+DPPP2,EPE East,Digital Literacy,Teams/Outlook/M365,2
+DPPP2,EPE East,Digital Literacy,Spice+,2
+DPPP2,EPE East,Digital Literacy,Folder,2
+DPPP2,EPE East,Digital Literacy,SEA,2
+DPPP2,EPE East,Digital Literacy,bFO,2
+DPPP2,EPE East,Digital Literacy,CPS,2
+DPPP2,EPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP2,EPE East,Digital Literacy,Who's who,2
+DPPP2,EPE East,Digital Literacy,Escalation process,2
+DPPP2,EPE East,Digital Literacy,PHR,2
+DPPP2,EPE East,Digital Literacy,Career Hub,2
+DPPP2,EPE East,Digital Literacy,Achievers,2
+DPPP2,EPE East,Financial Management,Financial Acumen,1
+DPPP2,EPE East,Operational Efficiency,AI learning & mechanics,2
+DPPP2,EPE East,Prioritization,Subskill 9,3
+DPPP2,EPE East,Project Management,Change Order Management,2
+DPPP2,EPE East,Project Management,Technical Support,2
+DPPP2,EPE East,Project Management,NB4 Date Management,2
+DPPP2,EPE East,Project Management,APM Certification,2
+DPPP2,EPE East,Project Management,PMP Certification,2
+DPPP2,EPE East,Reporting,Reporting,1
+DPPP2,EPE East,Risk Management,Risk Management & Method,1
+DPPP2,EPE East,Safety Regulations,Subskill 11,2
+DPPP3,EPE East,Analytical Thinking,Problem Solving,3
+DPPP3,EPE East,Budgeting,Accounting,2
+DPPP3,EPE East,Communication,Collaboration across BU/Function,3
+DPPP3,EPE East,Communication,Responsability - customer centric,3
+DPPP3,EPE East,Consulting,Subskill 4,2
+DPPP3,EPE East,Contract Management,Contract Management,2
+DPPP3,EPE East,Customer Orientation,Ownership Accountability,3
+DPPP3,EPE East,Decision Making,Subskill 6,3
+DPPP3,EPE East,Digital Literacy,On boarding Training Path,2
+DPPP3,EPE East,Digital Literacy,On boarding plan - Regional path,2
+DPPP3,EPE East,Digital Literacy,MLL/Coursera,2
+DPPP3,EPE East,Digital Literacy,Teams/Outlook/M365,2
+DPPP3,EPE East,Digital Literacy,Spice+,2
+DPPP3,EPE East,Digital Literacy,Folder,2
+DPPP3,EPE East,Digital Literacy,SEA,2
+DPPP3,EPE East,Digital Literacy,bFO,2
+DPPP3,EPE East,Digital Literacy,CPS,2
+DPPP3,EPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP3,EPE East,Digital Literacy,Who's who,2
+DPPP3,EPE East,Digital Literacy,Escalation process,2
+DPPP3,EPE East,Digital Literacy,PHR,2
+DPPP3,EPE East,Digital Literacy,Career Hub,2
+DPPP3,EPE East,Digital Literacy,Achievers,2
+DPPP3,EPE East,Financial Management,Financial Acumen,2
+DPPP3,EPE East,Operational Efficiency,AI learning & mechanics,3
+DPPP3,EPE East,Prioritization,Subskill 9,3
+DPPP3,EPE East,Project Management,Change Order Management,3
+DPPP3,EPE East,Project Management,Technical Support,3
+DPPP3,EPE East,Project Management,NB4 Date Management,3
+DPPP3,EPE East,Project Management,APM Certification,3
+DPPP3,EPE East,Project Management,PMP Certification,3
+DPPP3,EPE East,Reporting,Reporting,2
+DPPP3,EPE East,Risk Management,Risk Management & Method,3
+DPPP3,EPE East,Safety Regulations,Subskill 11,2
+DPPP4,EPE East,Budgeting,Accounting,3
+DPPP4,EPE East,Communication,Collaboration across BU/Function,3
+DPPP4,EPE East,Communication,Responsability - customer centric,3
+DPPP4,EPE East,Consulting,Subskill 4,3
+DPPP4,EPE East,Contract Management,Contract Management,2
+DPPP4,EPE East,Critical Thinking,Emotional Intelligence,3
+DPPP4,EPE East,Critical Thinking,Critical Thinking,3
+DPPP4,EPE East,Customer Orientation,Ownership Accountability,3
+DPPP4,EPE East,Decision Making,Subskill 6,3
+DPPP4,EPE East,Digital Literacy,On boarding Training Path,3
+DPPP4,EPE East,Digital Literacy,On boarding plan - Regional path,3
+DPPP4,EPE East,Digital Literacy,MLL/Coursera,3
+DPPP4,EPE East,Digital Literacy,Teams/Outlook/M365,3
+DPPP4,EPE East,Digital Literacy,Spice+,3
+DPPP4,EPE East,Digital Literacy,Folder,3
+DPPP4,EPE East,Digital Literacy,SEA,3
+DPPP4,EPE East,Digital Literacy,bFO,3
+DPPP4,EPE East,Digital Literacy,CPS,3
+DPPP4,EPE East,Digital Literacy,Cust Sat tool - SCR/PET,3
+DPPP4,EPE East,Digital Literacy,Who's who,3
+DPPP4,EPE East,Digital Literacy,Escalation process,3
+DPPP4,EPE East,Digital Literacy,PHR,3
+DPPP4,EPE East,Digital Literacy,Career Hub,3
+DPPP4,EPE East,Digital Literacy,Achievers,3
+DPPP4,EPE East,Financial Management,Financial Acumen,2
+DPPP4,EPE East,Operational Efficiency,AI learning & mechanics,3
+DPPP4,EPE East,Prioritization,Subskill 9,4
+DPPP4,EPE East,Project Management,Change Order Management,3
+DPPP4,EPE East,Project Management,Technical Support,3
+DPPP4,EPE East,Project Management,NB4 Date Management,3
+DPPP4,EPE East,Project Management,APM Certification,3
+DPPP4,EPE East,Project Management,PMP Certification,3
+DPPP4,EPE East,Reporting,Reporting,2
+DPPP4,EPE East,Risk Management,Risk Management & Method,3
+DPPP4,EPE East,Safety Regulations,Subskill 11,3
+DHDP1,EPE East,Adaptability,Subskill 1,2
+DHDP1,EPE East,Administrative Knowledge,Subskill 2,3
+DHDP1,EPE East,Business Intelligence Tools,Subskill 3,1
+DHDP1,EPE East,Communication,Collaboration across BU/Function,2
+DHDP1,EPE East,Communication,Responsability - customer centric,2
+DHDP1,EPE East,Customer Orientation,Ownership Accountability,2
+DHDP1,EPE East,Database Management,Subskill 5,3
+DHDP1,EPE East,Digital Literacy,On boarding Training Path,2
+DHDP1,EPE East,Digital Literacy,On boarding plan - Regional path,2
+DHDP1,EPE East,Digital Literacy,MLL/Coursera,2
+DHDP1,EPE East,Digital Literacy,Teams/Outlook/M365,2
+DHDP1,EPE East,Digital Literacy,Spice+,2
+DHDP1,EPE East,Digital Literacy,Folder,2
+DHDP1,EPE East,Digital Literacy,SEA,2
+DHDP1,EPE East,Digital Literacy,bFO,2
+DHDP1,EPE East,Digital Literacy,CPS,2
+DHDP1,EPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP1,EPE East,Digital Literacy,Who's who,2
+DHDP1,EPE East,Digital Literacy,Escalation process,2
+DHDP1,EPE East,Digital Literacy,PHR,2
+DHDP1,EPE East,Digital Literacy,Career Hub,2
+DHDP1,EPE East,Digital Literacy,Achievers,2
+DHDP1,EPE East,Document Management System,Subskill 7,2
+DHDP1,EPE East,Documentation,Subskill 8,2
+DHDP1,EPE East,Personal Productivity,Subskill 8,2
+DHDP1,EPE East,Project Management,Change Order Management,1
+DHDP1,EPE East,Project Management,Technical Support,1
+DHDP1,EPE East,Project Management,NB4 Date Management,1
+DHDP1,EPE East,Project Management,APM Certification,1
+DHDP1,EPE East,Project Management,PMP Certification,1
+DHDP1,EPE East,Project Scheduling,Sales Forecast Accuracy,1
+DHDP1,EPE East,Quality Assurance,Subskill 10,1
+DHDP1,EPE East,Reporting,Reporting,2
+DHDP1,EPE East,Risk Management,Risk Management & Method,1
+DHDP1,EPE East,Simplification,Subskill 12,1
+DHDP2,EPE East,Adaptability,Subskill 1,3
+DHDP2,EPE East,Administrative Knowledge,Subskill 2,3
+DHDP2,EPE East,Business Intelligence Tools,Subskill 3,2
+DHDP2,EPE East,Communication,Collaboration across BU/Function,3
+DHDP2,EPE East,Communication,Responsability - customer centric,3
+DHDP2,EPE East,Customer Orientation,Ownership Accountability,3
+DHDP2,EPE East,Database Management,Subskill 5,3
+DHDP2,EPE East,Digital Literacy,On boarding Training Path,2
+DHDP2,EPE East,Digital Literacy,On boarding plan - Regional path,2
+DHDP2,EPE East,Digital Literacy,MLL/Coursera,2
+DHDP2,EPE East,Digital Literacy,Teams/Outlook/M365,2
+DHDP2,EPE East,Digital Literacy,Spice+,2
+DHDP2,EPE East,Digital Literacy,Folder,2
+DHDP2,EPE East,Digital Literacy,SEA,2
+DHDP2,EPE East,Digital Literacy,bFO,2
+DHDP2,EPE East,Digital Literacy,CPS,2
+DHDP2,EPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP2,EPE East,Digital Literacy,Who's who,2
+DHDP2,EPE East,Digital Literacy,Escalation process,2
+DHDP2,EPE East,Digital Literacy,PHR,2
+DHDP2,EPE East,Digital Literacy,Career Hub,2
+DHDP2,EPE East,Digital Literacy,Achievers,2
+DHDP2,EPE East,Document Management System,Subskill 7,3
+DHDP2,EPE East,Documentation,Subskill 8,3
+DHDP2,EPE East,Personal Productivity,Subskill 8,3
+DHDP2,EPE East,Project Management,Change Order Management,2
+DHDP2,EPE East,Project Management,Technical Support,2
+DHDP2,EPE East,Project Management,NB4 Date Management,2
+DHDP2,EPE East,Project Management,APM Certification,2
+DHDP2,EPE East,Project Management,PMP Certification,2
+DHDP2,EPE East,Project Scheduling,Sales Forecast Accuracy,2
+DHDP2,EPE East,Quality Assurance,Subskill 10,2
+DHDP2,EPE East,Reporting,Reporting,3
+DHDP2,EPE East,Risk Management,Risk Management & Method,1
+DHDP2,EPE East,Simplification,Subskill 12,2
+DHDP3,EPE East,Adaptability,Subskill 1,3
+DHDP3,EPE East,Administrative Knowledge,Subskill 2,2
+DHDP3,EPE East,Business Intelligence Tools,Subskill 3,3
+DHDP3,EPE East,Communication,Collaboration across BU/Function,4
+DHDP3,EPE East,Communication,Responsability - customer centric,4
+DHDP3,EPE East,Customer Orientation,Ownership Accountability,4
+DHDP3,EPE East,Database Management,Subskill 5,2
+DHDP3,EPE East,Digital Literacy,On boarding Training Path,2
+DHDP3,EPE East,Digital Literacy,On boarding plan - Regional path,2
+DHDP3,EPE East,Digital Literacy,MLL/Coursera,2
+DHDP3,EPE East,Digital Literacy,Teams/Outlook/M365,2
+DHDP3,EPE East,Digital Literacy,Spice+,2
+DHDP3,EPE East,Digital Literacy,Folder,2
+DHDP3,EPE East,Digital Literacy,SEA,2
+DHDP3,EPE East,Digital Literacy,bFO,2
+DHDP3,EPE East,Digital Literacy,CPS,2
+DHDP3,EPE East,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP3,EPE East,Digital Literacy,Who's who,2
+DHDP3,EPE East,Digital Literacy,Escalation process,2
+DHDP3,EPE East,Digital Literacy,PHR,2
+DHDP3,EPE East,Digital Literacy,Career Hub,2
+DHDP3,EPE East,Digital Literacy,Achievers,2
+DHDP3,EPE East,Document Management System,Subskill 7,4
+DHDP3,EPE East,Documentation,Subskill 8,4
+DHDP3,EPE East,Personal Productivity,Subskill 8,4
+DHDP3,EPE East,Project Management,Change Order Management,3
+DHDP3,EPE East,Project Management,Technical Support,3
+DHDP3,EPE East,Project Management,NB4 Date Management,3
+DHDP3,EPE East,Project Management,APM Certification,3
+DHDP3,EPE East,Project Management,PMP Certification,3
+DHDP3,EPE East,Project Scheduling,Sales Forecast Accuracy,3
+DHDP3,EPE East,Quality Assurance,Subskill 10,3
+DHDP3,EPE East,Reporting,Reporting,4
+DHDP3,EPE East,Risk Management,Risk Management & Method,2
+DHDP3,EPE East,Simplification,Subskill 12,3
+DPPP1,MSFT,Analytical Thinking,Problem Solving,2
+DPPP1,MSFT,Budgeting,Accounting,1
+DPPP1,MSFT,Business Intelligence Tools,Subskill 3,1
+DPPP1,MSFT,Communication,Collaboration across BU/Function,2
+DPPP1,MSFT,Communication,Responsability - customer centric,2
+DPPP1,MSFT,Consulting,Subskill 4,1
+DPPP1,MSFT,Contract Management,Contract Management,1
+DPPP1,MSFT,Customer Orientation,Ownership Accountability,2
+DPPP1,MSFT,Decision Making,Subskill 6,1
+DPPP1,MSFT,Digital Literacy,On boarding Training Path,2
+DPPP1,MSFT,Digital Literacy,On boarding plan - Regional path,2
+DPPP1,MSFT,Digital Literacy,MLL/Coursera,2
+DPPP1,MSFT,Digital Literacy,Teams/Outlook/M365,2
+DPPP1,MSFT,Digital Literacy,Spice+,2
+DPPP1,MSFT,Digital Literacy,Folder,2
+DPPP1,MSFT,Digital Literacy,SEA,2
+DPPP1,MSFT,Digital Literacy,bFO,2
+DPPP1,MSFT,Digital Literacy,CPS,2
+DPPP1,MSFT,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP1,MSFT,Digital Literacy,Who's who,2
+DPPP1,MSFT,Digital Literacy,Escalation process,2
+DPPP1,MSFT,Digital Literacy,PHR,2
+DPPP1,MSFT,Digital Literacy,Career Hub,2
+DPPP1,MSFT,Digital Literacy,Achievers,2
+DPPP1,MSFT,Financial Management,Financial Acumen,1
+DPPP1,MSFT,Operational Efficiency,AI learning & mechanics,2
+DPPP1,MSFT,Prioritization,Subskill 9,2
+DPPP1,MSFT,Project Management,Change Order Management,2
+DPPP1,MSFT,Project Management,Technical Support,2
+DPPP1,MSFT,Project Management,NB4 Date Management,2
+DPPP1,MSFT,Project Management,APM Certification,2
+DPPP1,MSFT,Project Management,PMP Certification,2
+DPPP1,MSFT,Reporting,Reporting,1
+DPPP1,MSFT,Risk Management,Risk Management & Method,1
+DPPP1,MSFT,Safety Regulations,Subskill 11,2
+DPPP2,MSFT,Analytical Thinking,Problem Solving,2
+DPPP2,MSFT,Budgeting,Accounting,1
+DPPP2,MSFT,Communication,Collaboration across BU/Function,2
+DPPP2,MSFT,Communication,Responsability - customer centric,2
+DPPP2,MSFT,Consulting,Subskill 4,1
+DPPP2,MSFT,Contract Management,Contract Management,1
+DPPP2,MSFT,Customer Orientation,Ownership Accountability,2
+DPPP2,MSFT,Decision Making,Subskill 6,2
+DPPP2,MSFT,Digital Literacy,On boarding Training Path,2
+DPPP2,MSFT,Digital Literacy,On boarding plan - Regional path,2
+DPPP2,MSFT,Digital Literacy,MLL/Coursera,2
+DPPP2,MSFT,Digital Literacy,Teams/Outlook/M365,2
+DPPP2,MSFT,Digital Literacy,Spice+,2
+DPPP2,MSFT,Digital Literacy,Folder,2
+DPPP2,MSFT,Digital Literacy,SEA,2
+DPPP2,MSFT,Digital Literacy,bFO,2
+DPPP2,MSFT,Digital Literacy,CPS,2
+DPPP2,MSFT,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP2,MSFT,Digital Literacy,Who's who,2
+DPPP2,MSFT,Digital Literacy,Escalation process,2
+DPPP2,MSFT,Digital Literacy,PHR,2
+DPPP2,MSFT,Digital Literacy,Career Hub,2
+DPPP2,MSFT,Digital Literacy,Achievers,2
+DPPP2,MSFT,Financial Management,Financial Acumen,1
+DPPP2,MSFT,Operational Efficiency,AI learning & mechanics,2
+DPPP2,MSFT,Prioritization,Subskill 9,3
+DPPP2,MSFT,Project Management,Change Order Management,2
+DPPP2,MSFT,Project Management,Technical Support,2
+DPPP2,MSFT,Project Management,NB4 Date Management,2
+DPPP2,MSFT,Project Management,APM Certification,2
+DPPP2,MSFT,Project Management,PMP Certification,2
+DPPP2,MSFT,Reporting,Reporting,1
+DPPP2,MSFT,Risk Management,Risk Management & Method,1
+DPPP2,MSFT,Safety Regulations,Subskill 11,2
+DPPP3,MSFT,Analytical Thinking,Problem Solving,3
+DPPP3,MSFT,Budgeting,Accounting,2
+DPPP3,MSFT,Communication,Collaboration across BU/Function,3
+DPPP3,MSFT,Communication,Responsability - customer centric,3
+DPPP3,MSFT,Consulting,Subskill 4,2
+DPPP3,MSFT,Contract Management,Contract Management,2
+DPPP3,MSFT,Customer Orientation,Ownership Accountability,3
+DPPP3,MSFT,Decision Making,Subskill 6,3
+DPPP3,MSFT,Digital Literacy,On boarding Training Path,2
+DPPP3,MSFT,Digital Literacy,On boarding plan - Regional path,2
+DPPP3,MSFT,Digital Literacy,MLL/Coursera,2
+DPPP3,MSFT,Digital Literacy,Teams/Outlook/M365,2
+DPPP3,MSFT,Digital Literacy,Spice+,2
+DPPP3,MSFT,Digital Literacy,Folder,2
+DPPP3,MSFT,Digital Literacy,SEA,2
+DPPP3,MSFT,Digital Literacy,bFO,2
+DPPP3,MSFT,Digital Literacy,CPS,2
+DPPP3,MSFT,Digital Literacy,Cust Sat tool - SCR/PET,2
+DPPP3,MSFT,Digital Literacy,Who's who,2
+DPPP3,MSFT,Digital Literacy,Escalation process,2
+DPPP3,MSFT,Digital Literacy,PHR,2
+DPPP3,MSFT,Digital Literacy,Career Hub,2
+DPPP3,MSFT,Digital Literacy,Achievers,2
+DPPP3,MSFT,Financial Management,Financial Acumen,2
+DPPP3,MSFT,Operational Efficiency,AI learning & mechanics,3
+DPPP3,MSFT,Prioritization,Subskill 9,3
+DPPP3,MSFT,Project Management,Change Order Management,3
+DPPP3,MSFT,Project Management,Technical Support,3
+DPPP3,MSFT,Project Management,NB4 Date Management,3
+DPPP3,MSFT,Project Management,APM Certification,3
+DPPP3,MSFT,Project Management,PMP Certification,3
+DPPP3,MSFT,Reporting,Reporting,2
+DPPP3,MSFT,Risk Management,Risk Management & Method,3
+DPPP3,MSFT,Safety Regulations,Subskill 11,2
+DPPP4,MSFT,Budgeting,Accounting,3
+DPPP4,MSFT,Communication,Collaboration across BU/Function,3
+DPPP4,MSFT,Communication,Responsability - customer centric,3
+DPPP4,MSFT,Consulting,Subskill 4,3
+DPPP4,MSFT,Contract Management,Contract Management,2
+DPPP4,MSFT,Critical Thinking,Emotional Intelligence,3
+DPPP4,MSFT,Critical Thinking,Critical Thinking,3
+DPPP4,MSFT,Customer Orientation,Ownership Accountability,3
+DPPP4,MSFT,Decision Making,Subskill 6,3
+DPPP4,MSFT,Digital Literacy,On boarding Training Path,3
+DPPP4,MSFT,Digital Literacy,On boarding plan - Regional path,3
+DPPP4,MSFT,Digital Literacy,MLL/Coursera,3
+DPPP4,MSFT,Digital Literacy,Teams/Outlook/M365,3
+DPPP4,MSFT,Digital Literacy,Spice+,3
+DPPP4,MSFT,Digital Literacy,Folder,3
+DPPP4,MSFT,Digital Literacy,SEA,3
+DPPP4,MSFT,Digital Literacy,bFO,3
+DPPP4,MSFT,Digital Literacy,CPS,3
+DPPP4,MSFT,Digital Literacy,Cust Sat tool - SCR/PET,3
+DPPP4,MSFT,Digital Literacy,Who's who,3
+DPPP4,MSFT,Digital Literacy,Escalation process,3
+DPPP4,MSFT,Digital Literacy,PHR,3
+DPPP4,MSFT,Digital Literacy,Career Hub,3
+DPPP4,MSFT,Digital Literacy,Achievers,3
+DPPP4,MSFT,Financial Management,Financial Acumen,2
+DPPP4,MSFT,Operational Efficiency,AI learning & mechanics,3
+DPPP4,MSFT,Prioritization,Subskill 9,4
+DPPP4,MSFT,Project Management,Change Order Management,3
+DPPP4,MSFT,Project Management,Technical Support,3
+DPPP4,MSFT,Project Management,NB4 Date Management,3
+DPPP4,MSFT,Project Management,APM Certification,3
+DPPP4,MSFT,Project Management,PMP Certification,3
+DPPP4,MSFT,Reporting,Reporting,2
+DPPP4,MSFT,Risk Management,Risk Management & Method,3
+DPPP4,MSFT,Safety Regulations,Subskill 11,3
+DHDP1,MSFT,Adaptability,Subskill 1,2
+DHDP1,MSFT,Administrative Knowledge,Subskill 2,3
+DHDP1,MSFT,Business Intelligence Tools,Subskill 3,1
+DHDP1,MSFT,Communication,Collaboration across BU/Function,2
+DHDP1,MSFT,Communication,Responsability - customer centric,2
+DHDP1,MSFT,Customer Orientation,Ownership Accountability,2
+DHDP1,MSFT,Database Management,Subskill 5,3
+DHDP1,MSFT,Digital Literacy,On boarding Training Path,2
+DHDP1,MSFT,Digital Literacy,On boarding plan - Regional path,2
+DHDP1,MSFT,Digital Literacy,MLL/Coursera,2
+DHDP1,MSFT,Digital Literacy,Teams/Outlook/M365,2
+DHDP1,MSFT,Digital Literacy,Spice+,2
+DHDP1,MSFT,Digital Literacy,Folder,2
+DHDP1,MSFT,Digital Literacy,SEA,2
+DHDP1,MSFT,Digital Literacy,bFO,2
+DHDP1,MSFT,Digital Literacy,CPS,2
+DHDP1,MSFT,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP1,MSFT,Digital Literacy,Who's who,2
+DHDP1,MSFT,Digital Literacy,Escalation process,2
+DHDP1,MSFT,Digital Literacy,PHR,2
+DHDP1,MSFT,Digital Literacy,Career Hub,2
+DHDP1,MSFT,Digital Literacy,Achievers,2
+DHDP1,MSFT,Document Management System,Subskill 7,2
+DHDP1,MSFT,Documentation,Subskill 8,2
+DHDP1,MSFT,Personal Productivity,Subskill 8,2
+DHDP1,MSFT,Project Management,Change Order Management,1
+DHDP1,MSFT,Project Management,Technical Support,1
+DHDP1,MSFT,Project Management,NB4 Date Management,1
+DHDP1,MSFT,Project Management,APM Certification,1
+DHDP1,MSFT,Project Management,PMP Certification,1
+DHDP1,MSFT,Project Scheduling,Sales Forecast Accuracy,1
+DHDP1,MSFT,Quality Assurance,Subskill 10,1
+DHDP1,MSFT,Reporting,Reporting,2
+DHDP1,MSFT,Risk Management,Risk Management & Method,1
+DHDP1,MSFT,Simplification,Subskill 12,1
+DHDP2,MSFT,Adaptability,Subskill 1,3
+DHDP2,MSFT,Administrative Knowledge,Subskill 2,3
+DHDP2,MSFT,Business Intelligence Tools,Subskill 3,2
+DHDP2,MSFT,Communication,Collaboration across BU/Function,3
+DHDP2,MSFT,Communication,Responsability - customer centric,3
+DHDP2,MSFT,Customer Orientation,Ownership Accountability,3
+DHDP2,MSFT,Database Management,Subskill 5,3
+DHDP2,MSFT,Digital Literacy,On boarding Training Path,2
+DHDP2,MSFT,Digital Literacy,On boarding plan - Regional path,2
+DHDP2,MSFT,Digital Literacy,MLL/Coursera,2
+DHDP2,MSFT,Digital Literacy,Teams/Outlook/M365,2
+DHDP2,MSFT,Digital Literacy,Spice+,2
+DHDP2,MSFT,Digital Literacy,Folder,2
+DHDP2,MSFT,Digital Literacy,SEA,2
+DHDP2,MSFT,Digital Literacy,bFO,2
+DHDP2,MSFT,Digital Literacy,CPS,2
+DHDP2,MSFT,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP2,MSFT,Digital Literacy,Who's who,2
+DHDP2,MSFT,Digital Literacy,Escalation process,2
+DHDP2,MSFT,Digital Literacy,PHR,2
+DHDP2,MSFT,Digital Literacy,Career Hub,2
+DHDP2,MSFT,Digital Literacy,Achievers,2
+DHDP2,MSFT,Document Management System,Subskill 7,3
+DHDP2,MSFT,Documentation,Subskill 8,3
+DHDP2,MSFT,Personal Productivity,Subskill 8,3
+DHDP2,MSFT,Project Management,Change Order Management,2
+DHDP2,MSFT,Project Management,Technical Support,2
+DHDP2,MSFT,Project Management,NB4 Date Management,2
+DHDP2,MSFT,Project Management,APM Certification,2
+DHDP2,MSFT,Project Management,PMP Certification,2
+DHDP2,MSFT,Project Scheduling,Sales Forecast Accuracy,2
+DHDP2,MSFT,Quality Assurance,Subskill 10,2
+DHDP2,MSFT,Reporting,Reporting,3
+DHDP2,MSFT,Risk Management,Risk Management & Method,1
+DHDP2,MSFT,Simplification,Subskill 12,2
+DHDP3,MSFT,Adaptability,Subskill 1,3
+DHDP3,MSFT,Administrative Knowledge,Subskill 2,2
+DHDP3,MSFT,Business Intelligence Tools,Subskill 3,3
+DHDP3,MSFT,Communication,Collaboration across BU/Function,4
+DHDP3,MSFT,Communication,Responsability - customer centric,4
+DHDP3,MSFT,Customer Orientation,Ownership Accountability,4
+DHDP3,MSFT,Database Management,Subskill 5,2
+DHDP3,MSFT,Digital Literacy,On boarding Training Path,2
+DHDP3,MSFT,Digital Literacy,On boarding plan - Regional path,2
+DHDP3,MSFT,Digital Literacy,MLL/Coursera,2
+DHDP3,MSFT,Digital Literacy,Teams/Outlook/M365,2
+DHDP3,MSFT,Digital Literacy,Spice+,2
+DHDP3,MSFT,Digital Literacy,Folder,2
+DHDP3,MSFT,Digital Literacy,SEA,2
+DHDP3,MSFT,Digital Literacy,bFO,2
+DHDP3,MSFT,Digital Literacy,CPS,2
+DHDP3,MSFT,Digital Literacy,Cust Sat tool - SCR/PET,2
+DHDP3,MSFT,Digital Literacy,Who's who,2
+DHDP3,MSFT,Digital Literacy,Escalation process,2
+DHDP3,MSFT,Digital Literacy,PHR,2
+DHDP3,MSFT,Digital Literacy,Career Hub,2
+DHDP3,MSFT,Digital Literacy,Achievers,2
+DHDP3,MSFT,Document Management System,Subskill 7,4
+DHDP3,MSFT,Documentation,Subskill 8,4
+DHDP3,MSFT,Personal Productivity,Subskill 8,4
+DHDP3,MSFT,Project Management,Change Order Management,3
+DHDP3,MSFT,Project Management,Technical Support,3
+DHDP3,MSFT,Project Management,NB4 Date Management,3
+DHDP3,MSFT,Project Management,APM Certification,3
+DHDP3,MSFT,Project Management,PMP Certification,3
+DHDP3,MSFT,Project Scheduling,Sales Forecast Accuracy,3
+DHDP3,MSFT,Quality Assurance,Subskill 10,3
+DHDP3,MSFT,Reporting,Reporting,4
+DHDP3,MSFT,Risk Management,Risk Management & Method,2
+DHDP3,MSFT,Simplification,Subskill 12,3
+DTQP2,ECC,Adaptability,Adaptability subskill,2
+DTQP2,ECC,Collaboration,Collaboration subskill,3
+DTQP2,ECC,Configuration Design,Configuration Design subskill,2
+DTQP2,ECC,Cost Management,Cost Management subskill,2
+DTQP2,ECC,Customer Orientation,Customer Orientation subskill,2
+DTQP2,ECC,Personal Productivity,Personal Productivity subskill,3
+DTQP2,ECC,Problem Solving,Problem Solving subskill,3
+DTQP2,ECC,Product Application,Product Application subskill,3
+DTQP2,ECC,Project Scheduling,Project Scheduling subskill,2
+DTQP2,ECC,Proposal Development,Proposal Development subskill,2
+DTQP2,ECC,Quotation Management,Quotation Management subskill,3
+DTQP2,ECC,Requirements Analysis,Requirements Analysis subskill,3
+DTQP2,ECC,Risk Management,Risk Management subskill,1
+DTQP2,ECC,Technical Documentation,Technical Documentation subskill,2
+DTQP3,ECC,Adaptability,Adaptability subskill,3
+DTQP3,ECC,Collaboration,Collaboration subskill,3
+DTQP3,ECC,Configuration Design,Configuration Design subskill,3
+DTQP3,ECC,Cost Management,Cost Management subskill,3
+DTQP3,ECC,Customer Orientation,Customer Orientation subskill,3
+DTQP3,ECC,Personal Productivity,Personal Productivity subskill,3
+DTQP3,ECC,Problem Solving,Problem Solving subskill,4
+DTQP3,ECC,Product Application,Product Application subskill,4
+DTQP3,ECC,Project Scheduling,Project Scheduling subskill,2
+DTQP3,ECC,Proposal Development,Proposal Development subskill,3
+DTQP3,ECC,Quotation Management,Quotation Management subskill,4
+DTQP3,ECC,Requirements Analysis,Requirements Analysis subskill,4
+DTQP3,ECC,Risk Management,Risk Management subskill,2
+DTQP3,ECC,Technical Documentation,Technical Documentation subskill,3
+DTQP4,ECC,Adaptability,Adaptability subskill,3
+DTQP4,ECC,Collaboration,Collaboration subskill,4
+DTQP4,ECC,Configuration Design,Configuration Design subskill,4
+DTQP4,ECC,Cost Management,Cost Management subskill,3
+DTQP4,ECC,Customer Orientation,Customer Orientation subskill,3
+DTQP4,ECC,Personal Productivity,Personal Productivity subskill,4
+DTQP4,ECC,Problem Solving,Problem Solving subskill,4
+DTQP4,ECC,Product Application,Product Application subskill,4
+DTQP4,ECC,Project Scheduling,Project Scheduling subskill,3
+DTQP4,ECC,Proposal Development,Proposal Development subskill,3
+DTQP4,ECC,Quotation Management,Quotation Management subskill,4
+DTQP4,ECC,Requirements Analysis,Requirements Analysis subskill,4
+DTQP4,ECC,Risk Management,Risk Management subskill,3
+DTQP4,ECC,Technical Documentation,Technical Documentation subskill,3
+DTTP3,STP,Business Acumen,Business Acumen subskill ,3
+DTTP3,STP,Collaboration,Collaboration subskill,3
+DTTP3,STP,Communication,Communication subskill,3
+DTTP3,STP,Continuous Learning,Continuous Learning subskill,3
+DTTP3,STP,Contract Management,Contract Management subskill,2
+DTTP3,STP,Cost Management,Cost Management subskill,3
+DTTP3,STP,Cpp Process Knowledge,Cpp Process Knowledge subskill,3
+DTTP3,STP,Customer Orientation,Customer Orientation subskill,3
+DTTP3,STP,Growth Mindedness,Growth Mindedness subskill,3
+DTTP3,STP,Legal Compliance,Legal Compliance subskill,2
+DTTP3,STP,Pricing Strategy,Pricing Strategy subskill,3
+DTTP3,STP,Project Scheduling,Project Scheduling subskill,3
+DTTP3,STP,Resilience,Resilience subskill,3
+DTTP3,STP,Risk Management,Risk Management subskill,2
+DTTP3,STP,Tendering,Tendering subskill,2
+DTTP4,,Business Acumen,Business Acumen subskill,3
+DTTP4,STP,Collaboration,Collaboration subskill,3
+DTTP4,STP,Communication,Communication subskill,3
+DTTP4,STP,Continuous Learning,Continuous Learning subskill,4
+DTTP4,STP,Contract Management,Contract Management subskill,3
+DTTP4,STP,Cost Management,Cost Management subskill,3
+DTTP4,STP,Cpp Process Knowledge,Cpp Process Knowledge subskill,3
+DTTP4,STP,Customer Orientation,Customer Orientation subskill,3
+DTTP4,STP,Growth Mindedness,Growth Mindedness subskill,4
+DTTP4,STP,Legal Compliance,Legal Compliance subskill,2
+DTTP4,STP,Pricing Strategy,Pricing Strategy subskill,3
+DTTP4,STP,Project Management,Project Management subskill,3
+DTTP4,STP,Resilience,Resilience subskill,3
+DTTP4,STP,Risk Management,Risk Management subskill,3
+DTTP4,STP,Tendering,Tendering subskill,3
+DTTP5,STP,Business Acumen,Business Acumen subskill,3
+DTTP5,STP,Collaboration,Collaboration subskill,4
+DTTP5,STP,Communication,Communication subskill,3
+DTTP5,STP,Contract Management,Contract Management subskill,3
+DTTP5,STP,Cost Management,Cost Management subskill,4
+DTTP5,STP,Cpp Process Knowledge,Cpp Process Knowledge subskill,3
+DTTP5,STP,Customer Orientation,Customer Orientation subskill,3
+DTTP5,STP,Legal Compliance,Legal Compliance subskill,3
+DTTP5,STP,Pricing Strategy,Pricing Strategy subskill,4
+DTTP5,STP,Project Management,Project Management subskill,3
+DTTP5,STP,Resilience,Resilience subskill,3
+DTTP5,STP,Resource Efficiency Management,Resource Efficiency Management subskill,3
+DTTP5,STP,Risk Management,Risk Management subskill,3
+DTTP5,STP,Tendering,Tendering subskill,4
+DTQP2,TL,Adaptability,Adaptability subskill,2
+DTQP2,TL,Collaboration,Collaboration subskill,3
+DTQP2,TL,Configuration Design,Configuration Design subskill,2
+DTQP2,TL,Cost Management,Cost Management subskill,2
+DTQP2,TL,Customer Orientation,Customer Orientation subskill,2
+DTQP2,TL,Personal Productivity,Personal Productivity subskill,3
+DTQP2,TL,Problem Solving,Problem Solving subskill,3
+DTQP2,TL,Product Application,Product Application subskill,3
+DTQP2,TL,Project Scheduling,Project Scheduling subskill,2
+DTQP2,TL,Proposal Development,Proposal Development subskill,2
+DTQP2,TL,Quotation Management,Quotation Management subskill,3
+DTQP2,TL,Requirements Analysis,Requirements Analysis subskill,3
+DTQP2,TL,Risk Management,Risk Management subskill,1
+DTQP2,TL,Technical Documentation,Technical Documentation subskill,2
+DTQP3,TL,Adaptability,Adaptability subskill,3
+DTQP3,TL,Collaboration,Collaboration subskill,3
+DTQP3,TL,Configuration Design,Configuration Design subskill,3
+DTQP3,TL,Cost Management,Cost Management subskill,3
+DTQP3,TL,Customer Orientation,Customer Orientation subskill,3
+DTQP3,TL,Personal Productivity,Personal Productivity subskill,3
+DTQP3,TL,Problem Solving,Problem Solving subskill,4
+DTQP3,TL,Product Application,Product Application subskill,4
+DTQP3,TL,Project Scheduling,Project Scheduling subskill,2
+DTQP3,TL,Proposal Development,Proposal Development subskill,3
+DTQP3,TL,Quotation Management,Quotation Management subskill,4
+DTQP3,TL,Requirements Analysis,Requirements Analysis subskill,4
+DTQP3,TL,Risk Management,Risk Management subskill,2
+DTQP3,TL,Technical Documentation,Technical Documentation subskill,3
+DEET4,TL,Collaboration,Collaboration subskill,3
+DEET4,TL,Consulting,Consulting subskill,2
+DEET4,TL,Cost Management,Cost Management subskill,3
+DEET4,TL,Critical Thinking,Critical Thinking subskill,2
+DEET4,TL,Customer Orientation,Customer Orientation subskill,3
+DEET4,TL,Decision Making,Decision Making subskill,3
+DEET4,TL,Electrical Distribution Systems,Electrical Distribution Systems subskill,3
+DEET4,TL,Electrical Engineering,Electrical Engineering subskill,3
+DEET4,TL,Electrical Power Quality,Electrical Power Quality subskill,2
+DEET4,TL,Installation Design,Installation Design subskill,3
+DEET4,TL,Knowledge Management,Knowledge Management subskill,3
+DEET4,TL,Power Backup Engineering,Power Backup Engineering subskill,3
+DEET4,TL,Power Systems Design,Power Systems Design subskill,2
+DEET4,TL,Power-System Protection,Power-System Protection subskill,3
+DEET4,TL,Problem Solving,Problem Solving subskill,4
+DEET4,TL,Product Application,Product Application subskill,3
+DEET4,TL,Project Management,Project Management subskill,2
+DEET4,TL,Requirements Analysis,Requirements Analysis subskill,3
+DEET4,TL,Risk Management,Risk Management subskill,3
+DEET4,TL,Standardization,Standardization subskill,2
+DEET4,TL,System Architecture,System Architecture subskill,2
+DEET4,TL,Technical Documentation,Technical Documentation subskill,3
+DEET4,TL,Technical Solution Design,Technical Solution Design subskill,3
+DEET4,TL,Technical Strategy,Technical Strategy subskill,2
+DEET5,TL,Accountability,Accountability subskill,3
+DEET5,TL,Collaboration,Collaboration subskill,3
+DEET5,TL,Consulting,Consulting subskill,2
+DEET5,TL,Cost Management,Cost Management subskill,3
+DEET5,TL,Critical Thinking,Critical Thinking subskill,3
+DEET5,TL,Customer Orientation,Customer Orientation subskill,4
+DEET5,TL,Decision Making,Decision Making subskill,4
+DEET5,TL,Electrical Distribution Systems,Electrical Distribution Systems subskill,3
+DEET5,TL,Electrical Engineering,Electrical Engineering subskill,3
+DEET5,TL,Electrical Power Quality,Electrical Power Quality subskill,3
+DEET5,TL,Installation Design,Installation Design subskill,3
+DEET5,TL,Knowledge Management,Knowledge Management subskill,3
+DEET5,TL,Power Backup Engineering,Power Backup Engineering subskill,3
+DEET5,TL,Power Systems Design,Power Systems Design subskill,3
+DEET5,TL,Power-System Protection,Power-System Protection subskill,3
+DEET5,TL,Product Application,Product Application subskill,4
+DEET5,TL,Project Management,Project Management subskill,3
+DEET5,TL,Requirements Analysis,Requirements Analysis subskill,3
+DEET5,TL,Risk Management,Risk Management subskill,4
+DEET5,TL,Standardization,Standardization subskill,3
+DEET5,TL,System Architecture,System Architecture subskill,3
+DEET5,TL,Technical Documentation,Technical Documentation subskill,3
+DEET5,TL,Technical Solution Design,Technical Solution Design subskill,3
+DEET5,TL,Technical Strategy,Technical Strategy subskill,4

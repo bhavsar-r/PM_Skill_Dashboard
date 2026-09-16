@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>PM Skills Assessment Tool</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>PM Skills Assessment Tool</h1>
+
+        <!-- Navigation -->
+
+        <div class="navBar">
+
+            <button onclick="showTab('assessmentTab')">
+                Assessment
+            </button>
+
+            <button onclick="showTab('adminTab')">
+                Admin
+            </button>
+
+            <button onclick="showTab('reportTab')">
+                Reports
+            </button>
+
+        </div>
+
+        <!-- Toolbar -->
+
+        <div class="toolbar">
+
+            <button onclick="seedData()">
+                Load Sample Data
+            </button>
+
+            <button onclick="exportAssessments()">
+                Export Assessments
+            </button>
+
+            <button onclick="clearAllData()">
+                Reset Database
+            </button>
+
+        </div>
+
+        <!-- ===========================
+             ASSESSMENT TAB
+        =========================== -->
+
+        <div id="assessmentTab">
+
+            <div class="topSection">
+
+                <div class="formArea">
+
+                    <h2>Assessment Setup</h2>
+
+                    <label>PM Name</label>
+                    <input
+                        id="pmName"
+                        type="text"
+                        placeholder="Enter PM Name">
+
+                    <label>Job Code</label>
+                    <select id="jobCode">
+                        <option value="">Select Job Code</option>
+                    </select>
+
+                    <label>Team</label>
+                    <select id="team">
+                        <option value="">Select Team</option>
+                    </select>
+
+                    <button onclick="loadSkills()">
+                        Load Assessment
+                    </button>
+
+                </div>
+
+                <div class="descriptionArea">
+
+                    <h2>Skill Descriptions</h2>
+
+                    <div id="descriptions">
+
+                        Select a Job Code and Team.
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <h2>Assessment</h2>
+
+            <table id="assessmentTable">
+
+                <thead>
+
+                    <tr>
+
+                        <th>Skill</th>
+                        <th>Subskill</th>
+                        <th>Minimum</th>
+                        <th>Current Score</th>
+                        <th>New Score</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                </tbody>
+
+            </table>
+
+            <br>
+
+            <button id="submitBtn">
+                Submit Assessment
+            </button>
+
+        </div>
+
+        <!-- ===========================
+             ADMIN TAB
+        =========================== -->
+
+        <div id="adminTab" style="display:none">
+
+            <h2>Add Skill / Subskill</h2>
+
+            <label for="addJobCode">Job Code</label>
+            <select id="addJobCode"></select>
+
+            <label for="addTeam">Team</label>
+            <select id="addTeam"></select>
+
+            <label for="addSkill">Skill</label>
+            <select id="addSkill"></select>
+
+
+            <input id="addSubskill" placeholder="Subskill">
+
+            <input id="addMinimum" placeholder="Minimum Score">
+
+            <button onclick="addSkillSubskill()">
+                Add Skill
+            </button>
+
+            <hr>
+
+            <h2>Update Minimum</h2>
+
+            <label>Job Code</label>
+            <select id="minJobCode"></select>
+
+            <label>Team</label>
+            <select id="minTeam"></select>
+
+            <label>Skill</label>
+            <select id="minSkill"></select>
+
+            <label>New Minimum Score</label>
+            <input id="newMinimum" placeholder="Enter New Minimum">
+            <button onclick="updateMinimum()">
+                Update Minimum
+            </button>
+
+            <hr>
+
+            <h2>Global Job Code Change</h2>
+            <label>Current Job Code</label>
+            <select id="oldJobCode"></select>
+
+            <label>New Job Code</label>
+            <input id="newJobCode" placeholder="Enter New Job Code">
+
+            <label>Team</label>
+            <select id="jobTeam"></select>
+            <button onclick="changeJobCode()">
+                Change Job Code
+            </button>
+
+            <hr>
+
+            <h2>Employee Job Code Change</h2>
+            <label>PM Name</label>
+<select id="empName"></select>
+
+<label>Current Job Code</label>
+<select id="empCurrentJob"></select>
+
+<label>New Job Code</label>
+<input id="empNewJob" placeholder="Enter New Job Code">
+
+<label>Team</label>
+<select id="empTeam"></select>
+            <button onclick="changeEmployeeJobCode()">
+                Update Employee
+            </button>
+
+        </div>
+
+        <!-- ===========================
+             REPORT TAB
+        =========================== -->
+
+        <div id="reportTab" style="display:none">
+
+            <h2>Reports</h2>
+
+            <button onclick="buildReport()">
+
+                Refresh Report
+
+            </button>
+
+            <br><br>
+
+<div class="reportFilters">
+
+    <label>Team</label>
+    <select id="reportTeam">
+        <option value="">All Teams</option>
+    </select>
+
+    <label>Job Code</label>
+    <select id="reportJobCode">
+        <option value="">All Job Codes</option>
+    </select>
+
+    <label>PM</label>
+    <select id="reportPM">
+        <option value="">All PMs</option>
+    </select>
+
+</div>
+
+<br>
+
+<div id="reportResults"></div>
+
+        </div>
+
+    </div>
+
+    <script src="descriptions.js"></script>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
