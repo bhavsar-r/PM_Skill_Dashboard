@@ -1263,26 +1263,80 @@ function buildReport() {
 
 function exportAssessments() {
 
-    const data =
+    const assessments =
         JSON.parse(
             localStorage.getItem("assessments")
         ) || [];
 
-    if (data.length === 0) {
+    const requirements =
+        JSON.parse(
+            localStorage.getItem("requirements")
+        ) || [];
+
+    if (assessments.length === 0) {
 
         alert("No assessments found.");
         return;
 
     }
 
+    const exportData =
+        assessments.map(a => {
+
+            const requirement =
+                requirements.find(r =>
+
+                    r.jobCode === a.jobCode &&
+                    r.team === a.team &&
+                    r.skill === a.skill &&
+                    r.subSkill === a.subSkill
+
+                );
+
+            const minimum =
+                requirement
+                    ? Number(requirement.minValue)
+                    : "";
+
+            const actual =
+                Number(a.score);
+
+            const gap =
+                minimum === ""
+                    ? ""
+                    : actual - minimum;
+
+            const status =
+                minimum === ""
+                    ? "Missing Requirement"
+                    : actual >= minimum
+                        ? "Meets"
+                        : "Below";
+
+            return {
+
+                pmName: a.pmName,
+                jobCode: a.jobCode,
+                team: a.team,
+                skill: a.skill,
+                subSkill: a.subSkill,
+                score: a.score,
+                minimumRequirement: minimum,
+                gap: gap,
+                status: status
+
+            };
+
+        });
+
     const headers =
-        Object.keys(data[0]);
+        Object.keys(exportData[0]);
 
     const rows = [
 
         headers.join(","),
 
-        ...data.map(row =>
+        ...exportData.map(row =>
 
             headers
                 .map(h => row[h])
