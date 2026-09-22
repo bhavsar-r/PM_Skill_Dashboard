@@ -461,3 +461,35 @@ tr:hover {
     background: #3DCD58;
 
 }
+
+.navBar button.active {
+
+    background: #A8E6B0;
+
+    color: #1E6B2C;
+
+    border: 2px solid #3DCD58;
+
+}
+
+/* ====================================
+   SKILL COLOUR CODING
+==================================== */
+
+.globalSkill {
+
+    border-left: 8px solid #3DCD58 !important;
+
+    font-weight: 700;
+
+    background: #F7FFF8;
+
+}
+
+.localSkill {
+
+    border-left: 8px solid #A8E6B0 !important;
+
+    background: #FCFFFC;
+
+}

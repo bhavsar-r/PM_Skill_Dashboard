@@ -13,6 +13,38 @@ function showTab(tabId) {
 
     document.getElementById(tabId).style.display = "block";
 
+    document
+        .querySelectorAll(".navBar button")
+        .forEach(button => {
+
+            button.classList.remove("active");
+
+        });
+
+    if (tabId === "assessmentTab") {
+
+        document
+            .getElementById("assessmentBtn")
+            .classList.add("active");
+
+    }
+
+    if (tabId === "adminTab") {
+
+        document
+            .getElementById("adminBtn")
+            .classList.add("active");
+
+    }
+
+    if (tabId === "reportTab") {
+
+        document
+            .getElementById("reportBtn")
+            .classList.add("active");
+
+    }
+
 }
 
 /* =====================================
@@ -90,7 +122,24 @@ function populateAdminDropdowns() {
 
     populateSelect("addJobCode", jobCodes);
     populateSelect("addTeam", teams);
-    populateSelect("addSkill", skills);
+
+    const skillList =
+        document.getElementById(
+            "skillOptions"
+        );
+
+    if (skillList) {
+
+        skillList.innerHTML = "";
+
+        skills.forEach(skill => {
+
+            skillList.innerHTML +=
+                `<option value="${skill}">`;
+
+        });
+
+    }
 
     populateSelect("minJobCode", jobCodes);
     populateSelect("minTeam", teams);
@@ -416,29 +465,33 @@ function loadSkills() {
                 r.subSkill
             );
 
-        tbody.innerHTML += `
+    tbody.innerHTML += `
 
-            <tr>
+        <tr>
 
-                <td>${r.skill}</td>
+            <td class="globalSkill">
+                ${r.skill}
+            </td>
 
-                <td>${r.subSkill}</td>
+            <td class="localSkill">
+                ${r.subSkill}
+            </td>
 
-                <td>${r.minValue}</td>
+            <td>${r.minValue}</td>
 
-                <td>${currentScore}</td>
+            <td>${currentScore}</td>
 
-                <td>
-                    <input
-                        type="number"
-                        min="1"
-                        max="5"
-                        class="scoreInput">
-                </td>
+            <td>
+                <input
+                    type="number"
+                    min="1"
+                    max="5"
+                    class="scoreInput">
+            </td>
 
-            </tr>
+        </tr>
 
-        `;
+    `;
 
     });
 
@@ -526,6 +579,22 @@ function submitAssessment() {
             row.cells[4]
                 .querySelector("input")
                 .value;
+
+        if (
+    score !== "" &&
+    (
+        Number(score) < 1 ||
+        Number(score) > 5
+    )
+) {
+
+    alert(
+        "Scores must be between 1 and 5."
+    );
+
+    return;
+
+}
 
         if (score !== "") {
 
@@ -858,6 +927,9 @@ function buildReport() {
     const selectedPM =
         document.getElementById("reportPM").value;
 
+    const selectedSort =
+        document.getElementById("reportSort").value;
+
     const filteredAssessments =
         assessments.filter(a =>
 
@@ -875,6 +947,38 @@ function buildReport() {
                 a.pmName === selectedPM)
 
         );
+
+        if (selectedSort === "pm") {
+
+    filteredAssessments.sort((a, b) =>
+        a.pmName.localeCompare(b.pmName)
+    );
+
+}
+
+else if (selectedSort === "team") {
+
+    filteredAssessments.sort((a, b) =>
+        a.team.localeCompare(b.team)
+    );
+
+}
+
+else if (selectedSort === "skill") {
+
+    filteredAssessments.sort((a, b) =>
+        a.skill.localeCompare(b.skill)
+    );
+
+}
+
+else if (selectedSort === "jobcode") {
+
+    filteredAssessments.sort((a, b) =>
+        a.jobCode.localeCompare(b.jobCode)
+    );
+
+}
 
     if (filteredAssessments.length === 0) {
 

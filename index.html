@@ -22,15 +22,22 @@
 
         <div class="navBar">
 
-            <button onclick="showTab('assessmentTab')">
+            <button
+                id="assessmentBtn"
+                class="active"
+                onclick="showTab('assessmentTab')">
                 Assessment
             </button>
 
-            <button onclick="showTab('adminTab')">
+            <button
+                id="adminBtn"
+                onclick="showTab('adminTab')">
                 Admin
             </button>
 
-            <button onclick="showTab('reportTab')">
+            <button
+                id="reportBtn"
+                onclick="showTab('reportTab')">
                 Reports
             </button>
 
@@ -149,7 +156,13 @@
             <select id="addTeam"></select>
 
             <label for="addSkill">Skill</label>
-            <select id="addSkill"></select>
+
+            <input
+                id="addSkill"
+                list="skillOptions"
+                placeholder="Select or enter new skill">
+
+            <datalist id="skillOptions"></datalist>
 
 
             <input id="addSubskill" placeholder="Subskill">
@@ -246,6 +259,17 @@
     <select id="reportPM">
         <option value="">All PMs</option>
     </select>
+
+    <label>Sort By</label>
+
+    <select id="reportSort">
+        <option value="">Default</option>
+        <option value="pm">Employee</option>
+        <option value="team">Team</option>
+        <option value="skill">Skill</option>
+        <option value="jobcode">Job Code</option>
+    </select>
+
 
 </div>
 
