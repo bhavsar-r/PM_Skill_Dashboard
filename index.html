@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>PM Skills Assessment Tool</title>
+    <title>HUB Skills Assessment Tool</title>
 
     <link rel="stylesheet" href="style.css">
 
@@ -16,21 +16,28 @@
 
     <div class="container">
 
-        <h1>PM Skills Assessment Tool</h1>
+        <h1>HUB Skills Assessment Tool</h1>
 
         <!-- Navigation -->
 
         <div class="navBar">
 
-            <button onclick="showTab('assessmentTab')">
+            <button
+                id="assessmentBtn"
+                class="active"
+                onclick="showTab('assessmentTab')">
                 Assessment
             </button>
 
-            <button onclick="showTab('adminTab')">
+            <button
+                id="adminBtn"
+                onclick="showTab('adminTab')">
                 Admin
             </button>
 
-            <button onclick="showTab('reportTab')">
+            <button
+                id="reportBtn"
+                onclick="showTab('reportTab')">
                 Reports
             </button>
 
@@ -39,10 +46,6 @@
         <!-- Toolbar -->
 
         <div class="toolbar">
-
-            <button onclick="seedData()">
-                Load Sample Data
-            </button>
 
             <button onclick="exportAssessments()">
                 Export Assessments
@@ -66,11 +69,11 @@
 
                     <h2>Assessment Setup</h2>
 
-                    <label>PM Name</label>
+                    <label>Employee Name</label>
                     <input
                         id="pmName"
                         type="text"
-                        placeholder="Enter PM Name">
+                        placeholder="Enter Employee Name">
 
                     <label>Job Code</label>
                     <select id="jobCode">
@@ -104,7 +107,8 @@
 
             <h2>Assessment</h2>
 
-            <table id="assessmentTable">
+            <div class="tableContainer">
+                <table id="assessmentTable">
 
                 <thead>
 
@@ -126,13 +130,16 @@
 
             </table>
 
+        </div>
+
+
             <br>
 
             <button id="submitBtn">
                 Submit Assessment
             </button>
 
-        </div>
+            </div> <!-- CLOSE assessmentTab -->
 
         <!-- ===========================
              ADMIN TAB
@@ -142,15 +149,25 @@
 
             <h2>Add Skill / Subskill</h2>
 
-            <label for="addJobCode">Job Code</label>
-            <select id="addJobCode"></select>
+            <select id="addJobCode">
+                <option value="">
+                    Select Job Code...
+                </option>
+            </select>
 
-            <label for="addTeam">Team</label>
-            <select id="addTeam"></select>
+            <select id="addTeam">
 
-            <label for="addSkill">Skill</label>
-            <select id="addSkill"></select>
+                <option value="">
+                    Select Team...
+                </option>
 
+            </select>
+
+            <input
+                id="addSkill"
+                list="skillOptions"
+                placeholder="Select Existing Skill or Enter New Skill">
+            <datalist id="skillOptions"></datalist>
 
             <input id="addSubskill" placeholder="Subskill">
 
@@ -164,16 +181,12 @@
 
             <h2>Update Minimum</h2>
 
-            <label>Job Code</label>
             <select id="minJobCode"></select>
 
-            <label>Team</label>
             <select id="minTeam"></select>
 
-            <label>Skill</label>
             <select id="minSkill"></select>
 
-            <label>New Minimum Score</label>
             <input id="newMinimum" placeholder="Enter New Minimum">
             <button onclick="updateMinimum()">
                 Update Minimum
@@ -182,13 +195,11 @@
             <hr>
 
             <h2>Global Job Code Change</h2>
-            <label>Current Job Code</label>
+
             <select id="oldJobCode"></select>
 
-            <label>New Job Code</label>
             <input id="newJobCode" placeholder="Enter New Job Code">
 
-            <label>Team</label>
             <select id="jobTeam"></select>
             <button onclick="changeJobCode()">
                 Change Job Code
@@ -197,17 +208,10 @@
             <hr>
 
             <h2>Employee Job Code Change</h2>
-            <label>PM Name</label>
-<select id="empName"></select>
-
-<label>Current Job Code</label>
-<select id="empCurrentJob"></select>
-
-<label>New Job Code</label>
-<input id="empNewJob" placeholder="Enter New Job Code">
-
-<label>Team</label>
-<select id="empTeam"></select>
+            <select id="empName"></select>
+            <select id="empCurrentJob"></select>
+            <input id="empNewJob" placeholder="Enter New Job Code">
+            <select id="empTeam"></select>
             <button onclick="changeEmployeeJobCode()">
                 Update Employee
             </button>
@@ -242,10 +246,21 @@
         <option value="">All Job Codes</option>
     </select>
 
-    <label>PM</label>
+    <label>Employee</label>
     <select id="reportPM">
-        <option value="">All PMs</option>
+        <option value="">All Employees</option>
     </select>
+
+    <label>Sort By</label>
+
+    <select id="reportSort">
+        <option value="">Default</option>
+        <option value="pm">Employee</option>
+        <option value="team">Team</option>
+        <option value="skill">Skill</option>
+        <option value="jobcode">Job Code</option>
+    </select>
+
 
 </div>
 
@@ -261,5 +276,4 @@
     <script src="script.js"></script>
 
 </body>
-
 </html>

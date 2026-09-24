@@ -436,3 +436,70 @@ tr:hover {
 .card h3 {
     margin-top: 0;
 }
+
+.tableContainer {
+
+    max-height: 500px;
+
+    overflow-y: auto;
+
+    border-radius: 10px;
+
+    box-shadow:
+        0 2px 8px rgba(0, 0, 0, 0.08);
+
+}
+
+#assessmentTable thead th {
+
+    position: sticky;
+
+    top: 0;
+
+    z-index: 1;
+
+    background: #3DCD58;
+
+}
+
+.navBar button.active {
+
+    background: #A8E6B0;
+
+    color: #1E6B2C;
+
+    border: 2px solid #3DCD58;
+
+}
+
+/* ====================================
+   SKILL COLOUR CODING
+==================================== */
+
+.globalSkill {
+
+    border-left: 8px solid #3DCD58 !important;
+
+    font-weight: 700;
+
+    background: #F7FFF8;
+
+}
+
+.localSkill {
+
+    border-left: 8px solid #A8E6B0 !important;
+
+    background: #FCFFFC;
+
+}
+#adminTab input,
+#adminTab select {
+
+    width: 450px;
+
+    display: block;
+
+    margin-bottom: 12px;
+
+}

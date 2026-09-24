@@ -13,6 +13,38 @@ function showTab(tabId) {
 
     document.getElementById(tabId).style.display = "block";
 
+    document
+        .querySelectorAll(".navBar button")
+        .forEach(button => {
+
+            button.classList.remove("active");
+
+        });
+
+    if (tabId === "assessmentTab") {
+
+        document
+            .getElementById("assessmentBtn")
+            .classList.add("active");
+
+    }
+
+    if (tabId === "adminTab") {
+
+        document
+            .getElementById("adminBtn")
+            .classList.add("active");
+
+    }
+
+    if (tabId === "reportTab") {
+
+        document
+            .getElementById("reportBtn")
+            .classList.add("active");
+
+    }
+
 }
 
 /* =====================================
@@ -88,24 +120,92 @@ function populateAdminDropdowns() {
             assessments.map(a => a.pmName)
         )].sort();
 
-    populateSelect("addJobCode", jobCodes);
-    populateSelect("addTeam", teams);
-    populateSelect("addSkill", skills);
+        populateSelect(
+            "addJobCode",
+            jobCodes,
+            "Select Job Code..."
+        );
 
-    populateSelect("minJobCode", jobCodes);
-    populateSelect("minTeam", teams);
-    populateSelect("minSkill", skills);
+        populateSelect(
+            "addTeam",
+            teams,
+            "Select Team..."
+        );
 
-    populateSelect("oldJobCode", jobCodes);
-    populateSelect("jobTeam", teams);
+    const skillList =
+        document.getElementById(
+            "skillOptions"
+        );
 
-    populateSelect("empName", pms);
-    populateSelect("empCurrentJob", jobCodes);
-    populateSelect("empTeam", teams);
+    if (skillList) {
+
+        skillList.innerHTML = "";
+
+        skills.forEach(skill => {
+
+            skillList.innerHTML +=
+                `<option value="${skill}">`;
+
+        });
+
+    }
+
+    populateSelect(
+        "minJobCode",
+        jobCodes,
+        "Select Job Code..."
+    );
+
+    populateSelect(
+        "minTeam",
+        teams,
+        "Select Team..."
+    );
+
+    populateSelect(
+        "minSkill",
+        skills,
+        "Select Skill..."
+    );
+
+
+    populateSelect(
+        "oldJobCode",
+        jobCodes,
+        "Select Current Job Code..."
+    );
+
+    populateSelect(
+        "jobTeam",
+        teams,
+        "Select Team..."
+    );
+
+    populateSelect(
+        "empName",
+        pms,
+        "Select Employee..."
+    );
+
+    populateSelect(
+        "empCurrentJob",
+        jobCodes,
+        "Select Current Job Code..."
+    );
+
+    populateSelect(
+        "empTeam",
+        teams,
+        "Select Team..."
+    );
 
 }
 
-function populateSelect(id, values) {
+function populateSelect(
+    id,
+    values,
+    placeholder
+) {
 
     const select =
         document.getElementById(id);
@@ -113,7 +213,7 @@ function populateSelect(id, values) {
     if (!select) return;
 
     select.innerHTML =
-        '<option value="">Select...</option>';
+        `<option value="">${placeholder}</option>`;
 
     values.forEach(value => {
 
@@ -121,6 +221,7 @@ function populateSelect(id, values) {
             document.createElement("option");
 
         option.value = value;
+
         option.textContent = value;
 
         select.appendChild(option);
@@ -416,29 +517,33 @@ function loadSkills() {
                 r.subSkill
             );
 
-        tbody.innerHTML += `
+    tbody.innerHTML += `
 
-            <tr>
+        <tr>
 
-                <td>${r.skill}</td>
+            <td class="globalSkill">
+                ${r.skill}
+            </td>
 
-                <td>${r.subSkill}</td>
+            <td class="localSkill">
+                ${r.subSkill}
+            </td>
 
-                <td>${r.minValue}</td>
+            <td>${r.minValue}</td>
 
-                <td>${currentScore}</td>
+            <td>${currentScore}</td>
 
-                <td>
-                    <input
-                        type="number"
-                        min="1"
-                        max="5"
-                        class="scoreInput">
-                </td>
+            <td>
+                <input
+                    type="number"
+                    min="1"
+                    max="5"
+                    class="scoreInput">
+            </td>
 
-            </tr>
+        </tr>
 
-        `;
+    `;
 
     });
 
@@ -526,6 +631,22 @@ function submitAssessment() {
             row.cells[4]
                 .querySelector("input")
                 .value;
+
+        if (
+    score !== "" &&
+    (
+        Number(score) < 1 ||
+        Number(score) > 5
+    )
+) {
+
+    alert(
+        "Scores must be between 1 and 5."
+    );
+
+    return;
+
+}
 
         if (score !== "") {
 
@@ -858,6 +979,9 @@ function buildReport() {
     const selectedPM =
         document.getElementById("reportPM").value;
 
+    const selectedSort =
+        document.getElementById("reportSort").value;
+
     const filteredAssessments =
         assessments.filter(a =>
 
@@ -875,6 +999,77 @@ function buildReport() {
                 a.pmName === selectedPM)
 
         );
+
+        if (selectedSort === "pm") {
+
+    filteredAssessments.sort((a, b) =>
+        a.pmName.localeCompare(b.pmName)
+    );
+
+}
+
+else if (selectedSort === "team") {
+
+    filteredAssessments.sort((a, b) =>
+        a.team.localeCompare(b.team)
+    );
+
+}
+
+else if (selectedSort === "skill") {
+
+    filteredAssessments.sort((a, b) => {
+
+        const skillCompare =
+            a.skill.localeCompare(b.skill);
+
+        if (skillCompare !== 0) {
+
+            return skillCompare;
+
+        }
+
+        const reqA =
+            requirements.find(r =>
+
+                r.jobCode === a.jobCode &&
+                r.team === a.team &&
+                r.skill === a.skill &&
+                r.subSkill === a.subSkill
+
+            );
+
+        const reqB =
+            requirements.find(r =>
+
+                r.jobCode === b.jobCode &&
+                r.team === b.team &&
+                r.skill === b.skill &&
+                r.subSkill === b.subSkill
+
+            );
+
+        const gapA =
+            Number(a.score) -
+            Number(reqA?.minValue || 0);
+
+        const gapB =
+            Number(b.score) -
+            Number(reqB?.minValue || 0);
+
+        return gapA - gapB;
+
+    });
+
+}
+
+else if (selectedSort === "jobcode") {
+
+    filteredAssessments.sort((a, b) =>
+        a.jobCode.localeCompare(b.jobCode)
+    );
+
+}
 
     if (filteredAssessments.length === 0) {
 
@@ -923,7 +1118,7 @@ function buildReport() {
             </div>
 
             <div class="card">
-                <h3>Total PMs</h3>
+                <h3>Total Employees</h3>
                 <p>${uniquePMs.length}</p>
             </div>
 
@@ -947,7 +1142,7 @@ function buildReport() {
 
     html += `
 
-        <h2>PM Summary</h2>
+        <h2>Employee Summary</h2>
 
         <table>
 
@@ -955,7 +1150,7 @@ function buildReport() {
 
                 <tr>
 
-                    <th>PM</th>
+                    <th>Employee</th>
                     <th>Team</th>
                     <th>Average Actual</th>
                     <th>Average Minimum</th>
@@ -1073,7 +1268,7 @@ function buildReport() {
 
                 <tr>
 
-                    <th>PM</th>
+                    <th>Employee</th>
                     <th>Team</th>
                     <th>Skill</th>
                     <th>Subskill</th>
@@ -1263,26 +1458,80 @@ function buildReport() {
 
 function exportAssessments() {
 
-    const data =
+    const assessments =
         JSON.parse(
             localStorage.getItem("assessments")
         ) || [];
 
-    if (data.length === 0) {
+    const requirements =
+        JSON.parse(
+            localStorage.getItem("requirements")
+        ) || [];
+
+    if (assessments.length === 0) {
 
         alert("No assessments found.");
         return;
 
     }
 
+    const exportData =
+        assessments.map(a => {
+
+            const requirement =
+                requirements.find(r =>
+
+                    r.jobCode === a.jobCode &&
+                    r.team === a.team &&
+                    r.skill === a.skill &&
+                    r.subSkill === a.subSkill
+
+                );
+
+            const minimum =
+                requirement
+                    ? Number(requirement.minValue)
+                    : "";
+
+            const actual =
+                Number(a.score);
+
+            const gap =
+                minimum === ""
+                    ? ""
+                    : actual - minimum;
+
+            const status =
+                minimum === ""
+                    ? "Missing Requirement"
+                    : actual >= minimum
+                        ? "Meets"
+                        : "Below";
+
+            return {
+
+                pmName: a.pmName,
+                jobCode: a.jobCode,
+                team: a.team,
+                skill: a.skill,
+                subSkill: a.subSkill,
+                score: a.score,
+                minimumRequirement: minimum,
+                gap: gap,
+                status: status
+
+            };
+
+        });
+
     const headers =
-        Object.keys(data[0]);
+        Object.keys(exportData[0]);
 
     const rows = [
 
         headers.join(","),
 
-        ...data.map(row =>
+        ...exportData.map(row =>
 
             headers
                 .map(h => row[h])
