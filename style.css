@@ -493,3 +493,13 @@ tr:hover {
     background: #FCFFFC;
 
 }
+#adminTab input,
+#adminTab select {
+
+    width: 450px;
+
+    display: block;
+
+    margin-bottom: 12px;
+
+}

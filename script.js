@@ -120,8 +120,17 @@ function populateAdminDropdowns() {
             assessments.map(a => a.pmName)
         )].sort();
 
-    populateSelect("addJobCode", jobCodes);
-    populateSelect("addTeam", teams);
+        populateSelect(
+            "addJobCode",
+            jobCodes,
+            "Select Job Code..."
+        );
+
+        populateSelect(
+            "addTeam",
+            teams,
+            "Select Team..."
+        );
 
     const skillList =
         document.getElementById(
@@ -141,20 +150,62 @@ function populateAdminDropdowns() {
 
     }
 
-    populateSelect("minJobCode", jobCodes);
-    populateSelect("minTeam", teams);
-    populateSelect("minSkill", skills);
+    populateSelect(
+        "minJobCode",
+        jobCodes,
+        "Select Job Code..."
+    );
 
-    populateSelect("oldJobCode", jobCodes);
-    populateSelect("jobTeam", teams);
+    populateSelect(
+        "minTeam",
+        teams,
+        "Select Team..."
+    );
 
-    populateSelect("empName", pms);
-    populateSelect("empCurrentJob", jobCodes);
-    populateSelect("empTeam", teams);
+    populateSelect(
+        "minSkill",
+        skills,
+        "Select Skill..."
+    );
+
+
+    populateSelect(
+        "oldJobCode",
+        jobCodes,
+        "Select Current Job Code..."
+    );
+
+    populateSelect(
+        "jobTeam",
+        teams,
+        "Select Team..."
+    );
+
+    populateSelect(
+        "empName",
+        pms,
+        "Select Employee..."
+    );
+
+    populateSelect(
+        "empCurrentJob",
+        jobCodes,
+        "Select Current Job Code..."
+    );
+
+    populateSelect(
+        "empTeam",
+        teams,
+        "Select Team..."
+    );
 
 }
 
-function populateSelect(id, values) {
+function populateSelect(
+    id,
+    values,
+    placeholder
+) {
 
     const select =
         document.getElementById(id);
@@ -162,7 +213,7 @@ function populateSelect(id, values) {
     if (!select) return;
 
     select.innerHTML =
-        '<option value="">Select...</option>';
+        `<option value="">${placeholder}</option>`;
 
     values.forEach(value => {
 
@@ -170,6 +221,7 @@ function populateSelect(id, values) {
             document.createElement("option");
 
         option.value = value;
+
         option.textContent = value;
 
         select.appendChild(option);
@@ -346,7 +398,7 @@ function populateReportFilters() {
         '<option value="">All Job Codes</option>';
 
     pmDropdown.innerHTML =
-        '<option value="">All PMs</option>';
+        '<option value="">All Employees</option>';
 
     [...new Set(
         assessments.map(a => a.team)

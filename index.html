@@ -149,21 +149,25 @@
 
             <h2>Add Skill / Subskill</h2>
 
-            <label for="addJobCode">Job Code</label>
-            <select id="addJobCode"></select>
+            <select id="addJobCode">
+                <option value="">
+                    Select Job Code...
+                </option>
+            </select>
 
-            <label for="addTeam">Team</label>
-            <select id="addTeam"></select>
+            <select id="addTeam">
 
-            <label for="addSkill">Skill</label>
+                <option value="">
+                    Select Team...
+                </option>
+
+            </select>
 
             <input
                 id="addSkill"
                 list="skillOptions"
-                placeholder="Select or enter new skill">
-
+                placeholder="Select Existing Skill or Enter New Skill">
             <datalist id="skillOptions"></datalist>
-
 
             <input id="addSubskill" placeholder="Subskill">
 
@@ -177,16 +181,12 @@
 
             <h2>Update Minimum</h2>
 
-            <label>Job Code</label>
             <select id="minJobCode"></select>
 
-            <label>Team</label>
             <select id="minTeam"></select>
 
-            <label>Skill</label>
             <select id="minSkill"></select>
 
-            <label>New Minimum Score</label>
             <input id="newMinimum" placeholder="Enter New Minimum">
             <button onclick="updateMinimum()">
                 Update Minimum
@@ -195,13 +195,11 @@
             <hr>
 
             <h2>Global Job Code Change</h2>
-            <label>Current Job Code</label>
+
             <select id="oldJobCode"></select>
 
-            <label>New Job Code</label>
             <input id="newJobCode" placeholder="Enter New Job Code">
 
-            <label>Team</label>
             <select id="jobTeam"></select>
             <button onclick="changeJobCode()">
                 Change Job Code
@@ -210,17 +208,10 @@
             <hr>
 
             <h2>Employee Job Code Change</h2>
-            <label>Employees Name</label>
-<select id="empName"></select>
-
-<label>Current Job Code</label>
-<select id="empCurrentJob"></select>
-
-<label>New Job Code</label>
-<input id="empNewJob" placeholder="Enter New Job Code">
-
-<label>Team</label>
-<select id="empTeam"></select>
+            <select id="empName"></select>
+            <select id="empCurrentJob"></select>
+            <input id="empNewJob" placeholder="Enter New Job Code">
+            <select id="empTeam"></select>
             <button onclick="changeEmployeeJobCode()">
                 Update Employee
             </button>
@@ -285,5 +276,4 @@
     <script src="script.js"></script>
 
 </body>
-
 </html>
