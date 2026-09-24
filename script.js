@@ -966,9 +966,48 @@ else if (selectedSort === "team") {
 
 else if (selectedSort === "skill") {
 
-    filteredAssessments.sort((a, b) =>
-        a.skill.localeCompare(b.skill)
-    );
+    filteredAssessments.sort((a, b) => {
+
+        const skillCompare =
+            a.skill.localeCompare(b.skill);
+
+        if (skillCompare !== 0) {
+
+            return skillCompare;
+
+        }
+
+        const reqA =
+            requirements.find(r =>
+
+                r.jobCode === a.jobCode &&
+                r.team === a.team &&
+                r.skill === a.skill &&
+                r.subSkill === a.subSkill
+
+            );
+
+        const reqB =
+            requirements.find(r =>
+
+                r.jobCode === b.jobCode &&
+                r.team === b.team &&
+                r.skill === b.skill &&
+                r.subSkill === b.subSkill
+
+            );
+
+        const gapA =
+            Number(a.score) -
+            Number(reqA?.minValue || 0);
+
+        const gapB =
+            Number(b.score) -
+            Number(reqB?.minValue || 0);
+
+        return gapA - gapB;
+
+    });
 
 }
 
@@ -1027,7 +1066,7 @@ else if (selectedSort === "jobcode") {
             </div>
 
             <div class="card">
-                <h3>Total PMs</h3>
+                <h3>Total Employees</h3>
                 <p>${uniquePMs.length}</p>
             </div>
 
@@ -1051,7 +1090,7 @@ else if (selectedSort === "jobcode") {
 
     html += `
 
-        <h2>PM Summary</h2>
+        <h2>Employee Summary</h2>
 
         <table>
 
@@ -1059,7 +1098,7 @@ else if (selectedSort === "jobcode") {
 
                 <tr>
 
-                    <th>PM</th>
+                    <th>Employee</th>
                     <th>Team</th>
                     <th>Average Actual</th>
                     <th>Average Minimum</th>
@@ -1177,7 +1216,7 @@ else if (selectedSort === "jobcode") {
 
                 <tr>
 
-                    <th>PM</th>
+                    <th>Employee</th>
                     <th>Team</th>
                     <th>Skill</th>
                     <th>Subskill</th>
